@@ -26,7 +26,7 @@
 - [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
 - [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
-- [KATE SAENKO Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
+- [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
 
 ## Other githubs
 
