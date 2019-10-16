@@ -1,6 +1,8 @@
 # Materials for transfer learning
 
-[TOC]
+- [Materials for transfer learning](#materials-for-transfer-learning)
+  * [Discussion](#discussion)
+  * [Presentation](#presentation)
 
 ## Discussion
 ----
