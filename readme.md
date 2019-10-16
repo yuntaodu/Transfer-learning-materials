@@ -3,9 +3,9 @@
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [Discussion](#discussion)
   * [Presentation](#presentation)
-  * [Excellent Scholars](#excellent-scholars)
   * [template](#template)
     + [ppt](#ppt)
+  * [Excellent Scholars](#excellent-scholars)
   * [Other githubs](#other-githubs)
 
 ## Discussion
@@ -20,6 +20,11 @@
    - [王玫   2019 deep_domain_adaptation](https://github.com/dududuAA/TL_group/tree/master/presentation/%E7%8E%8B%E7%8E%AB_2019_deep_domain_adaptation)
    - [吴恩达 NIPS 2016  Nuts and bolts of building AI applications using Deep Learning](https://github.com/dududuAA/TL_group/tree/master/presentation/%E5%90%B4%E6%81%A9%E8%BE%BE_NIPS2016_Nuts%20and%20bolts%20of%20building%20AI%20applications%20using%20Deep%20Learning)
 
+## template
+  
+  ### ppt
+  - [参考1](https://github.com/dududuAA/TL_group/blob/master/template/ppt/%E5%8F%82%E8%80%831.pptx)(A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses)
+
 ## Excellent Scholars
 - [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
 - [王晋东 微软亚洲研究院](http://jd92.wang/)
@@ -30,10 +35,6 @@
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
 - [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
 
-## template
-  
-  ### ppt
-  - [参考1](https://github.com/dududuAA/TL_group/blob/master/template/ppt/%E5%8F%82%E8%80%831.pptx)(A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses)
 
 ## Other githubs
 
