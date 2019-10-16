@@ -3,8 +3,8 @@
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [Discussion](#discussion)
   * [Presentation](#presentation)
-  * [Excellent Scholars](#Excellent Scholars)
-  * [Other githubs](#Other githubs)
+  * [Excellent Scholars](#excellent-scholars)
+  * [Other githubs](#other-githubs)
 
 ## Discussion
 
