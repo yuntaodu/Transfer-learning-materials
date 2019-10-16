@@ -28,6 +28,11 @@
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
 - [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
 
+## template
+  
+  ### ppt
+  - [参考1](https://github.com/dududuAA/TL_group/blob/master/template/ppt/%E5%8F%82%E8%80%831.pptx)(A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses)
+
 ## Other githubs
 
 - [王晋东](https://github.com/jindongwang)
