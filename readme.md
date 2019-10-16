@@ -7,9 +7,7 @@
 ## Discussion
 ----
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
-
    - [week 2](https://github.com/dududuAA/TL_group/tree/master/discuss/week2_10-23)
-   
    - [week1 & week2 reference](https://github.com/dududuAA/TL_group/blob/master/discuss/week1%262%E5%8F%82%E8%80%83.pdf)
 
 ## Presentation
