@@ -29,7 +29,7 @@
 - [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
 - [王晋东 微软亚洲研究院](http://jd92.wang/)
 - [张磊 重庆大学](http://www.leizhang.tk/)
-- [庄福振 中科所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
+- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
 - [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
 - [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
