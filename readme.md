@@ -3,7 +3,7 @@
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [Discussion](#discussion)
   * [Presentation](#presentation)
-  * [template](#template)
+  * [Template](#Template)
     + [ppt](#ppt)
   * [Excellent Scholars](#excellent-scholars)
   * [Other githubs](#other-githubs)
@@ -20,7 +20,7 @@
    - [王玫   2019 deep_domain_adaptation](https://github.com/dududuAA/TL_group/tree/master/presentation/%E7%8E%8B%E7%8E%AB_2019_deep_domain_adaptation)
    - [吴恩达 NIPS 2016  Nuts and bolts of building AI applications using Deep Learning](https://github.com/dududuAA/TL_group/tree/master/presentation/%E5%90%B4%E6%81%A9%E8%BE%BE_NIPS2016_Nuts%20and%20bolts%20of%20building%20AI%20applications%20using%20Deep%20Learning)
 
-## template
+## Template
   
   ### ppt
   - [参考1](https://github.com/dududuAA/TL_group/blob/master/template/ppt/%E5%8F%82%E8%80%831.pptx)(A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses)
