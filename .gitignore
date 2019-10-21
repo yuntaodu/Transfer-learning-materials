@@ -1,0 +1,4 @@
+data/*.mat
+
+!data/USPS_vs_MNIST_1.mat
+!data/USPS_vs_MNIST_2.mat
