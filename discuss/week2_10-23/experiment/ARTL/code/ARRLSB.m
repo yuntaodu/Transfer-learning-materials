@@ -35,6 +35,7 @@ gamma = options.gamma;
 ker = options.ker;
 data = options.data;
 Mu = options.Mu;
+
 fprintf('Algorithm ARRLSB started...\n');
 fprintf('data=%s  p=%d  sigma=%f  lambda=%f  gamma=%f\n',data,p,sigma,lambda,gamma);
 
