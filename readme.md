@@ -13,8 +13,9 @@
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
    - [week 2](https://github.com/dududuAA/TL_group/tree/master/discuss/week2_10-23)
    - [week1 & week2 reference](https://github.com/dududuAA/TL_group/blob/master/discuss/week1%262%E5%8F%82%E8%80%83.pdf)
-   - [week3](https://github.com/dududuAA/TL/tree/master/discuss/week3_10-30)
-   - [week4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
+   - [week 3](https://github.com/dududuAA/TL/tree/master/discuss/week3_10-30)
+   - [week 4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
+   - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-14)
 ## Presentation
    
    - [龙明盛_NJU2019_Transfer Learning Theories and Algorithms](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
