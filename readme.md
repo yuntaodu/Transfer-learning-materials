@@ -16,6 +16,13 @@
    - [week 3](https://github.com/dududuAA/TL/tree/master/discuss/week3_10-30)
    - [week 4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
+   
+## 论文整理
+   - 非深度迁移学习
+		- [LDA](https://github.com/dududuAA/TL/tree/master/%E8%AE%BA%E6%96%87%E6%95%B4%E7%90%86/%E9%9D%9E%E6%B7%B1%E5%BA%A6%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0/LDA)
+   - 深度迁移学习
+   - 对抗迁移学习
+   
 ## Presentation
    
    - [龙明盛_NJU2019_Transfer Learning Theories and Algorithms](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
