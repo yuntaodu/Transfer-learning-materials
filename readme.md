@@ -36,17 +36,17 @@
    
 ## Excellent Scholars
 
-	- [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
-	- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
-	- [张宇 南方科技大学](https://yuzhanghk.github.io/)
-	- [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
-	- [王晋东 微软亚洲研究院](http://jd92.wang/)
-	- [张磊 重庆大学](http://www.leizhang.tk/)
-	- [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
-	- [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
-	- [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
-	- [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
-	- [Xingchao Peng Boston University(Ph.D)](http://cs-people.bu.edu/xpeng/)
+- [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
+- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
+- [张宇 南方科技大学](https://yuzhanghk.github.io/)
+- [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
+- [王晋东 微软亚洲研究院](http://jd92.wang/)
+- [张磊 重庆大学](http://www.leizhang.tk/)
+- [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
+- [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
+- [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
+- [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
+- [Xingchao Peng Boston University(Ph.D)](http://cs-people.bu.edu/xpeng/)
 
 ## 论文整理
 
@@ -62,7 +62,7 @@
 
 ## Other githubs
 
-	- [王晋东](https://github.com/jindongwang)
-	- [ThuML](https://github.com/thuml)
-	- [Awesome-1](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
-	- [Awesome-2](https://github.com/barebell/DA)
+- [王晋东](https://github.com/jindongwang)
+- [ThuML](https://github.com/thuml)
+- [Awesome-1](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
+- [Awesome-2](https://github.com/barebell/DA)
