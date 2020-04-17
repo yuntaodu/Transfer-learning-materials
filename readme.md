@@ -35,7 +35,6 @@
    - [吴恩达 NIPS 2016  Nuts and bolts of building AI applications using Deep Learning](https://github.com/dududuAA/TL_group/tree/master/presentation/%E5%90%B4%E6%81%A9%E8%BE%BE_NIPS2016_Nuts%20and%20bolts%20of%20building%20AI%20applications%20using%20Deep%20Learning)
    
 ## Excellent Scholars
-
 - [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
 - [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
 - [张宇 南方科技大学](https://yuzhanghk.github.io/)
@@ -61,7 +60,6 @@
   - [参考1](https://github.com/dududuAA/TL_group/blob/master/template/ppt/%E5%8F%82%E8%80%831.pptx) (A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses)
 
 ## Other githubs
-
 - [王晋东](https://github.com/jindongwang)
 - [ThuML](https://github.com/thuml)
 - [Awesome-1](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
