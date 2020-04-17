@@ -22,9 +22,9 @@
    
 ## 新论文追踪
 
-	-[Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
-	-[Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
-	-[Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
+	- [Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
+	- [Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
+	- [Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
 		  
 ## Presentation
    
