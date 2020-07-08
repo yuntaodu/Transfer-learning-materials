@@ -12,10 +12,10 @@
   * [Other githubs](#other-githubs)
  
 ## novel_papers
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+|  title   | conference/journel + year| code | keywords |  
+|  ----  | ----  | ---- | ---- |
+| test1  | 1 | 1 | 1 |
+| test2  | 2 | 2 | 2 |
 
 ## Discussion
 
