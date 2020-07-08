@@ -43,6 +43,9 @@
 |Progressive Adversarial Networks for Fine-Grained Domain Adaptation|CVPR 2020||fine-grained|similar to mutil-aspect opinion analysis|
 |Model Adaptation: Unsupervised Domain Adaptation without Source Data|CVPR 2020|||**Recommend to read, new problems**|
 |Towards Inheritable Models for Open-Set Domain Adaptation|CVPR 2020|[code](https://sites.google.com/view/inheritune)|||
+|Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification|ECCV 2020||||
+|Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||||
+|Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
