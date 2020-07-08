@@ -19,6 +19,7 @@
 |Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection| AAAI 2020 || transfer learning, anamaly detection|
 |Dynamic Instance Normalization for Arbitrary Style Transfer|AAAI 2020| |dynamic instance normalization|
 |AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||Gated output, fine-tune|
+|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
