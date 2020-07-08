@@ -12,7 +12,7 @@
   * [Other githubs](#other-githubs)
  
 ## novel_papers
-|  title   | conference/journel + year| code | keywords |  benenit for ours |
+|  Title   | Conference/journel + year| Code | Keywords |  Benenit for our |
 |  ----  | ----  | ---- | ---- | ---- |
 | Adversarial-Learned Loss for Domain Adaptation  | AAAI 2020 |  | noisy label, adversarial learning ||
 | Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
