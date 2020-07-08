@@ -21,6 +21,7 @@
 |AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||gated output, fine-tune||
 |Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|ICML 2019, the third term|
 |Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
+|Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
