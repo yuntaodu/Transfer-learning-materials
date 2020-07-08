@@ -32,8 +32,9 @@
 |Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |**recommend to read, new trneds**|
 |Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||graph for DA| connenction with GCN |
 |Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
-|Learning with Multiple Complementary Labels|ICML 2020||||
-|Deep Divergence Learning|ICML 2020||divergence||
+|Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
+|Deep Divergence Learning ([paper](https://arxiv.org/pdf/2005.02612.pdf))|ICML 2020||divergence||
+|Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020||confidence||
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
