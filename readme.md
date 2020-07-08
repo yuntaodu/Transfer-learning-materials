@@ -6,9 +6,10 @@
   * [新论文追踪](#新论文追踪)
   * [Presentation](#presentation)
   * [Excellent Scholars](#excellent-scholars)
-  <!-- * [论文整理](#论文整理)    -->
-  * [Template](#Template)
+  <!-- * [论文整理](#论文整理)   
+  <!--* [Template](#Template)
     + [ppt](#ppt)
+   -->
   * [Other githubs](#other-githubs)
  
 ## novel_papers
@@ -65,13 +66,13 @@
 - [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
 - [Xingchao Peng Boston University(Ph.D)](http://cs-people.bu.edu/xpeng/)
-
+ <!--
 ## 论文整理
    - 非深度迁移学习
 		- [LDA](https://github.com/dududuAA/TL/tree/master/%E8%AE%BA%E6%96%87%E6%95%B4%E7%90%86/%E9%9D%9E%E6%B7%B1%E5%BA%A6%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0/LDA)
    - 深度迁移学习
    - 对抗迁移学习
-
+-->
  <!--
 ## Template
   ### ppt
