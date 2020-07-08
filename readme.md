@@ -35,7 +35,7 @@
 |Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
 |Deep Divergence Learning ([paper](https://arxiv.org/pdf/2005.02612.pdf))|ICML 2020||divergence||
 |Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020|[code](https://github.com/daintlab/confidence-aware-learning)|confidence||
-|Learning Deep Kernels for Non-Parametric Two-Sample Tests|ICML 2020|[code](https://github.com/fengliu90/DK-for-TST)|extend MMD to deep||
+|Learning Deep Kernels for Non-Parametric Two-Sample Tests ([paper](https://arxiv.org/pdf/2002.09116.pdf))|ICML 2020|[code](https://github.com/fengliu90/DK-for-TST)|extend MMD to deep||
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
