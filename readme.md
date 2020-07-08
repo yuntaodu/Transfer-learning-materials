@@ -6,7 +6,7 @@
   * [新论文追踪](#新论文追踪)
   * [Presentation](#presentation)
   * [Excellent Scholars](#excellent-scholars)
-  * [论文整理](#论文整理)
+  <!-- * [论文整理](#论文整理)    -->
   * [Template](#Template)
     + [ppt](#ppt)
   * [Other githubs](#other-githubs)
@@ -72,12 +72,11 @@
    - 深度迁移学习
    - 对抗迁移学习
 
-
+ <!--
 ## Template
-  
   ### ppt
   - [参考1](https://github.com/dududuAA/TL_group/blob/master/template/ppt/%E5%8F%82%E8%80%831.pptx) (A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses)
-
+-->
 ## Other githubs
 - [王晋东](https://github.com/jindongwang)
 - [ThuML](https://github.com/thuml)
