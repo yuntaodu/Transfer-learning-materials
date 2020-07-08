@@ -23,12 +23,12 @@
 |Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
 |Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 |Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
-|Estimating Generalization under Distribution Shifts via Domain-Invariant Representations ([paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf))|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|recommend to read|
-|Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|ideas from theory|recommend to read|
+|Estimating Generalization under Distribution Shifts via Domain-Invariant Representations ([paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf))|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|**recommend to read**|
+|Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|ideas from theory|**recommend to read**|
 |LEEP: A New Measure to Evaluate Transferability of Learned Representations ([paper](https://arxiv.org/pdf/2002.12462.pdf))|ICML 2020||new metric for transferability|easy to use for other tasks|
 |Label-Noise Robust Domain Adaptation|ICML2020|||the author is a rising star|
 |Progressive Graph Learning for Open-Set Domain Adaptation ([paper](https://arxiv.org/abs/2006.12087))|ICML 2020|[code](https://github.com/BUserName/PGL)|open set DA||
-|Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |recommend to read, new trneds|
+|Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |**recommend to read, new trneds**|
 |Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||graph for DA| connenction with GCN |
 ## Discussion
 
