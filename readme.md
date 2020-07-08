@@ -46,7 +46,7 @@
 |Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification|ECCV 2020||||
 |Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||||
 |Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
-|Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
+|Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
