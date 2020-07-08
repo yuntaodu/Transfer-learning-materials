@@ -19,7 +19,7 @@
 |Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection| AAAI 2020 || transfer learning, anamaly detection||
 |Dynamic Instance Normalization for Arbitrary Style Transfer|AAAI 2020| |dynamic instance normalization||
 |AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||gated output, fine-tune||
-|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|ICML 2019, the third term|
+|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|connection with ICML 2019, the third term|
 |Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
 |Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 |Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
