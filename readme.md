@@ -23,6 +23,8 @@
 |Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
 |Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 |Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
+|Estimating Generalization under Distribution Shifts via Domain-Invariant Representations[paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf)|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|
+recommend|
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
