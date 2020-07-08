@@ -15,8 +15,7 @@
 |  title   | conference/journel + year| code | keywords |  
 |  ----  | ----  | ---- | ---- |
 | Adversarial-Learned Loss for Domain Adaptation  | AAAI 2020 |  | noisy label, adversarial learning |
-| Collaborative Graph Convolutional Networks:
-Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning |
+| Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning |
 
 ## Discussion
 
