@@ -14,8 +14,9 @@
 ## novel_papers
 |  title   | conference/journel + year| code | keywords |  
 |  ----  | ----  | ---- | ---- |
-| test1  | 1 | 1 | 1 |
-| test2  | 2 | 2 | 2 |
+| Adversarial-Learned Loss for Domain Adaptation  | AAAI 2020 |  | noisy label, adversarial learning |
+| Collaborative Graph Convolutional Networks:
+Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning |
 
 ## Discussion
 
