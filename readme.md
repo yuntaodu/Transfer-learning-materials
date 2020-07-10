@@ -58,7 +58,7 @@
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
-|Weakly Supervised Domain Adaptation with Deep Learning ([link](http://mhug.disi.unitn.it/tutorial-acmmm16/pdf/dda-xgw.pdf)| ACM MM 2016 | Xiaogang Wang||
+|Weakly Supervised Domain Adaptation with Deep Learning ([link](http://mhug.disi.unitn.it/tutorial-acmmm16/pdf/dda-xgw.pdf))| ACM MM 2016 | Xiaogang Wang||
 
 ## Discussion
 
