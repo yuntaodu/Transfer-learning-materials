@@ -116,7 +116,7 @@
 |ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection ([paper](https://arxiv.org/pdf/1812.02510.pdf))|arvix 2018||weakly supervised + DA||
 |Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/bsrvision/weak_da_hands)|weakly supervised + DA||
 |Domain-Adversarial Graph Neural Networks for Text Classification ([paper](https://shiruipan.github.io/publication/icdm-19-wu/icdm-19-wu.pdf))|ICDM 2019||GCN + DA||
-|Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019|GCN + DA||
+|Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN + DA||
 |DANE: Domain Adaptive Network Embedding ([paper](https://www.ijcai.org/Proceedings/2019/0606.pdf))|IJCAI 2019||GCN+DA||
 |Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA||
 |Active Domain Transfer on Network Embedding ([paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024))|WWW 2020||GCN + DA||
