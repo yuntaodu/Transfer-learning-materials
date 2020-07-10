@@ -49,9 +49,9 @@
 |Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
 |Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
 |Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf))|CVPR 2019||weakly supervised + open DA||
-|Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes ([paper](https://arxiv.org/pdf/1904.09092.pdf))|TIP 2019|||
-|Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))||||
-|ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection ([paper](https://arxiv.org/pdf/1812.02510.pdf))||||
+|Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes ([paper](https://arxiv.org/pdf/1904.09092.pdf))|TIP 2019||weakly supervised + DA||
+|Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||weakly supervised + DA||
+|ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection ([paper](https://arxiv.org/pdf/1812.02510.pdf))|arvix 2018||weakly supervised + DA||
 |Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/bsrvision/weak_da_hands)|||
 
 ## Discussion
