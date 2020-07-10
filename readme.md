@@ -54,6 +54,11 @@
 |ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection ([paper](https://arxiv.org/pdf/1812.02510.pdf))|arvix 2018||weakly supervised + DA||
 |Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/bsrvision/weak_da_hands)|weakly supervised + DA||
 
+## tutotial collection
+|  Title   | Conference + year| speaker |  Benenit for us |
+|  ----  | ----  | ---- | ---- | ---- |
+|Weakly Supervised Domain Adaptation with Deep Learning(link(http://mhug.disi.unitn.it/tutorial-acmmm16/pdf/dda-xgw.pdf)| ACM MM 2016 | Xiaogang Wang||
+
 ## Discussion
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
