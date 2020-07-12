@@ -122,6 +122,7 @@
 |Active Domain Transfer on Network Embedding ([paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024))|WWW 2020||GCN + DA||
 |Adversarial Deep Network Embedding for Cross-network Node Classification ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf))|AAAI 2020||GCN+DA||
 |KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis ([paper](https://arxiv.org/pdf/2005.00791.pdf))|ACL 2020|[code](https://github.com/declare-lab/kingdom)|GCN + DA||
+|A SURVEY ON DOMAIN ADAPTATION THEORY:LEARNING BOUNDS AND THEORETICAL GUARANTEES ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arvix 2020||theory||
 
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
