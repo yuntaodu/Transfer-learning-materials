@@ -123,6 +123,7 @@
 |Adversarial Deep Network Embedding for Cross-network Node Classification ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf))|AAAI 2020|[code](https://github.com/shenxiaocam/ACDNE)|GCN+DA||
 |KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis ([paper](https://arxiv.org/pdf/2005.00791.pdf))|ACL 2020|[code](https://github.com/declare-lab/kingdom)|GCN + DA||
 |A SURVEY ON DOMAIN ADAPTATION THEORY:LEARNING BOUNDS AND THEORETICAL GUARANTEES ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arvix 2020||theory||
+|Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
 
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
