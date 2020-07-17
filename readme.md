@@ -129,6 +129,8 @@
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
 |Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
 |Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
+|Learning Semantic Representations for Unsupervised Domain Adaptation ([paper](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf))|(ICML 2018)|[code]()|||
+|Multi-Adversarial Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf))|AAAI 2018|[code](https://github.com/thuml/MADA)|||
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
