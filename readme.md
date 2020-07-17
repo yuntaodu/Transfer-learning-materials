@@ -55,7 +55,7 @@
 - [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
 - [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
-- [Xingchao Peng Boston University(Ph.D)](http://cs-people.bu.edu/xpeng/)
+- [zhao han](https://www.cs.cmu.edu/~hzhao1/)
  <!--
 ## 论文整理
    - 非深度迁移学习
