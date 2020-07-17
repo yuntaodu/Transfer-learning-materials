@@ -128,6 +128,7 @@
 |Unsupervised Transfer Learning for Spatiotemporal Predictive Networks ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-memory-icml20.pdf))|ICML 2020||||
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
 |Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
+|Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
