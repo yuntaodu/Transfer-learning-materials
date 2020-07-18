@@ -35,7 +35,12 @@
 - [Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
 - [Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
 - [Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
-		  
+	
+
+## 方法论
+- [督工 认知模型](https://www.bilibili.com/video/BV1P7411Y7bG)
+- [沈向洋 how to read papers (私有，联系作者获取密码)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/)
+	
 ## Presentation
    
    - [龙明盛_NJU2019 Transfer Learning Theories and Algorithms](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
