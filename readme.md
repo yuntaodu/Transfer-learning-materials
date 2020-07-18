@@ -4,6 +4,7 @@
   * [入门参考](#入门参考)
   * [Discussion](#discussion)
   * [新论文追踪](#新论文追踪)
+  * [方法论](# 方法论)
   * [Presentation](#presentation)
   * [Excellent Scholars](#excellent-scholars)
   <!-- * [论文整理](#论文整理)   
