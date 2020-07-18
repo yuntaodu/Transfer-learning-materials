@@ -39,7 +39,7 @@
 
 ## 方法论
 - [督工 认知模型](https://www.bilibili.com/video/BV1P7411Y7bG)
-- [沈向洋 how to read papers (私有，联系作者获取密码)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/)
+- [沈向洋 how to read papers (私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/)
 	
 ## Presentation
    
