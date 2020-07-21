@@ -42,7 +42,8 @@
 ## 方法论
 - [督工 认知模型](https://www.bilibili.com/video/BV1P7411Y7bG)
 - [沈向洋 you are what you read](https://www.bilibili.com/s/video/BV1df4y1m74k)
-- [沈向洋 how to read papers (私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/)
+- [沈向洋 how to read papers 7.18(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/)
+- [王井东 how to read papers 7.21(私有, 密码同上)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
 	
 ## 国内会议
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
