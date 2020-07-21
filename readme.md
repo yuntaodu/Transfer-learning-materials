@@ -5,6 +5,7 @@
   * [Discussion](#discussion)
   * [新论文追踪](#新论文追踪)
   * [方法论](#方法论)
+  * [国内会议](#国内会议)
   * [Presentation](#presentation)
   * [Excellent Scholars](#excellent-scholars)
   <!-- * [论文整理](#论文整理)   
@@ -42,6 +43,9 @@
 - [督工 认知模型](https://www.bilibili.com/video/BV1P7411Y7bG)
 - [沈向洋 you are what you read](https://www.bilibili.com/s/video/BV1df4y1m74k)
 - [沈向洋 how to read papers (私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/)
+	
+## 国内会议
+- [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
 	
 ## Presentation
    
