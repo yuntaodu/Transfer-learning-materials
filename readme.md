@@ -46,16 +46,15 @@
 - [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
 - [宫博庆 Google Research](http://boqinggong.info/)
 
-## 好文整理
-- 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
-   
 ## 新论文追踪
 
 - [Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
 - [Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
 - [Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
-	
 
+## 好文整理
+- 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
+   
 ## 方法论
 - 督工 认知模型 [链接](https://www.bilibili.com/video/BV1P7411Y7bG)
 - 沈向洋 you are what you read [链接](https://www.bilibili.com/s/video/BV1df4y1m74k)
