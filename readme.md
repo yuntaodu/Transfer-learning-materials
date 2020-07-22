@@ -34,9 +34,6 @@
 
 ## 好文整理
 - 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
-
-## Discussion
-
    
 ## 新论文追踪
 
