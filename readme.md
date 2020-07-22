@@ -69,6 +69,7 @@
 - [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
 - [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
+- [宫博庆 Google Research](http://boqinggong.info/)
  <!--
 ## 论文整理
    - 非深度迁移学习
