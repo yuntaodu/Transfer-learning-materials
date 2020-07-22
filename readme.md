@@ -48,7 +48,7 @@
 ## 会议视频
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
 - [ICLR 2020 视频回放(maybe 科学上网)](https://iclr.cc/virtual_2020/calendar.html#tab-Monday)
-- VALSE Webinar 20-19期 迁移学习 (个人非常推荐！)[视频](), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
+- VALSE Webinar 20-19期 迁移学习 (个人非常推荐!) [视频](), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
 	
 ## Presentation
    
