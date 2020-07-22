@@ -3,7 +3,6 @@
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
   * [好文整理](#好文整理)
-  * [Discussion](#discussion)
   * [新论文追踪](#新论文追踪)
   * [方法论](#方法论)
   * [会议视频](#会议视频)
