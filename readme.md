@@ -24,10 +24,7 @@
 
 预期学习时间为2-3个月, 详细计划安排见[入门参考](https://github.com/dududuAA/Transfer-learning-materials/blob/master/discuss/plan.pptx)
 
-## 好文整理
-- 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
-
-## Discussion
+围绕对于这些论文，曾有一个相应的讨论班，相关的日程和资料如下：
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
    - [week 2](https://github.com/dududuAA/TL_group/tree/master/discuss/week2_10-23)
@@ -35,6 +32,12 @@
    - [week 3](https://github.com/dududuAA/TL/tree/master/discuss/week3_10-30)
    - [week 4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
+
+## 好文整理
+- 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
+
+## Discussion
+
    
 ## 新论文追踪
 
