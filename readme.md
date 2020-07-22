@@ -48,10 +48,10 @@
 ## 会议视频
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
 - [ICLR 2020 视频回放(maybe 科学上网)](https://iclr.cc/virtual_2020/calendar.html#tab-Monday)
-- VALSE Webinar 20-19期 迁移学习 (个人非常推荐!) [视频](), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
+
 	
 ## Presentation
-   
+   - VALSE Webinar 20-19期 迁移学习 (个人非常推荐, 对新手不友好，对进阶有帮助，今年目前为止个人看到质量最高的一个报告!) [视频](), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
    - [龙明盛_NJU2019 Transfer Learning Theories and Algorithms](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
    - [龙明盛 Valse 2019 Transfer Learning_From Algorithms to Theories and Back](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_valse2019_Transfer%20Learning_From%20Algorithms%20to%20Theories%20and%20Back)
    - [游凯超 智源论坛 2019 领域适配前沿研究--场景、方法与模型选择](https://www.bilibili.com/video/BV15J411W7KX?from=search&seid=8739501206493640960)
