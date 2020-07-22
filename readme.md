@@ -5,7 +5,7 @@
   * [Discussion](#discussion)
   * [新论文追踪](#新论文追踪)
   * [方法论](#方法论)
-  * [国内会议](#国内会议)
+  * [会议视频](#会议视频)
   * [Presentation](#presentation)
   * [Excellent Scholars](#excellent-scholars)
   <!-- * [论文整理](#论文整理)   
@@ -45,7 +45,7 @@
 - [沈向洋 how to read papers 7.18(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/)
 - [王井东 how to read papers 7.21(私有, 密码同上)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
 	
-## 国内会议
+## 会议视频
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
 - [ICLR 2020 视频回放(maybe 科学上网)](https://iclr.cc/virtual_2020/calendar.html#tab-Monday)
 	
