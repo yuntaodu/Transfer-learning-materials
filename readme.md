@@ -2,12 +2,12 @@
 
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
+  * [Excellent Scholars](#excellent-scholars)
   * [好文整理](#好文整理)
   * [新论文追踪](#新论文追踪)
   * [方法论](#方法论)
   * [会议视频](#会议视频)
   * [Presentation](#presentation)
-  * [Excellent Scholars](#excellent-scholars)
   <!-- * [论文整理](#论文整理)   
   <!--* [Template](#Template)
     + [ppt](#ppt)
@@ -31,6 +31,20 @@
    - [week 3](https://github.com/dududuAA/TL/tree/master/discuss/week3_10-30)
    - [week 4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
+
+## Excellent Scholars
+- [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
+- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
+- [张宇 南方科技大学](https://yuzhanghk.github.io/)
+- [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
+- [王晋东 微软亚洲研究院](http://jd92.wang/)
+- [张磊 重庆大学](http://www.leizhang.tk/)
+- [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
+- [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
+- [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
+- [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
+- [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
+- [宫博庆 Google Research](http://boqinggong.info/)
 
 ## 好文整理
 - 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
@@ -61,19 +75,7 @@
    - [王玫   2019 deep_domain_adaptation](https://github.com/dududuAA/TL_group/tree/master/presentation/%E7%8E%8B%E7%8E%AB_2019_deep_domain_adaptation)
    - [吴恩达 NIPS 2016  Nuts and bolts of building AI applications using Deep Learning](https://github.com/dududuAA/TL_group/tree/master/presentation/%E5%90%B4%E6%81%A9%E8%BE%BE_NIPS2016_Nuts%20and%20bolts%20of%20building%20AI%20applications%20using%20Deep%20Learning)
    
-## Excellent Scholars
-- [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
-- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
-- [张宇 南方科技大学](https://yuzhanghk.github.io/)
-- [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
-- [王晋东 微软亚洲研究院](http://jd92.wang/)
-- [张磊 重庆大学](http://www.leizhang.tk/)
-- [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
-- [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
-- [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
-- [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
-- [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
-- [宫博庆 Google Research](http://boqinggong.info/)
+
  <!--
 ## 论文整理
    - 非深度迁移学习
