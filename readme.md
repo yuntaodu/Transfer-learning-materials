@@ -51,7 +51,7 @@
 
 	
 ## Presentation
-   - VALSE Webinar 20-19期 迁移学习 (个人非常推荐, 对新手不友好，对进阶有帮助，质量很高!) [视频](), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
+   - VALSE Webinar 20-19期 迁移学习 (个人非常推荐, 对新手不友好，对进阶有帮助，质量很高!) [视频](https://live.bilibili.com/22300737), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
    - [龙明盛_NJU2019 Transfer Learning Theories and Algorithms](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
    - [龙明盛 Valse 2019 Transfer Learning_From Algorithms to Theories and Back](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_valse2019_Transfer%20Learning_From%20Algorithms%20to%20Theories%20and%20Back)
    - [游凯超 智源论坛 2019 领域适配前沿研究--场景、方法与模型选择](https://www.bilibili.com/video/BV15J411W7KX?from=search&seid=8739501206493640960)
