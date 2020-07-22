@@ -47,6 +47,7 @@
 	
 ## 国内会议
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
+- [ICLR 2020 视频回放(maybe 科学上网)](https://iclr.cc/virtual_2020/calendar.html#tab-Monday)
 	
 ## Presentation
    
