@@ -2,6 +2,7 @@
 
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
+  * [好文整理](#好文整理)
   * [Discussion](#discussion)
   * [新论文追踪](#新论文追踪)
   * [方法论](#方法论)
@@ -22,6 +23,9 @@
 针对每一部分，列举了3-4篇经典论文，建议详读这些经典论文，泛读这些经典论文的后续论文，并对其中的部分算法进行实现。
 
 预期学习时间为2-3个月, 详细计划安排见[入门参考](https://github.com/dududuAA/Transfer-learning-materials/blob/master/discuss/plan.pptx)
+
+## 好文整理
+- 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
 
 ## Discussion
 
