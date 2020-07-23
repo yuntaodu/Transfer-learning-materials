@@ -5,7 +5,7 @@
   * [Getting started](#Getting-started)
   * [Excellent Scholars](#excellent-scholars)
   * [New papers on some topic](#New-papers-on-some-topic)
-  * [科研方法论](#科研方法论)
+  * [Research methodology](#Research-methodology)
   * [好文整理](#好文整理)
   * [会议视频](#会议视频)
   * [Presentation](#presentation)
@@ -49,7 +49,7 @@
 - [Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
 - [Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
 
-## 科研方法论
+## Research methodology
 - 督工 认知模型 [链接](https://www.bilibili.com/video/BV1P7411Y7bG)
 - 沈向洋 you are what you read [链接](https://www.bilibili.com/s/video/BV1df4y1m74k)
 - 沈向洋 how to read papers 7.18[(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/), [文字版](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
