@@ -6,7 +6,7 @@
   * [Excellent Scholars](#excellent-scholars)
   * [New papers on some topic](#New-papers-on-some-topic)
   * [Research methodology](#Research-methodology)
-  * [好文整理](#好文整理)
+  * [Good articles](#Good-articles)
   * [会议视频](#会议视频)
   * [Presentation](#presentation)
   * [Other githubs](#other-githubs)
@@ -55,7 +55,7 @@
 - 沈向洋 how to read papers 7.18[(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/), [文字版](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
 - 王井东 how to read papers 7.21[(私有, 密码同上)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
 
-## 好文整理
+## Good articles
 - 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
    	
 ## 会议视频
