@@ -1,4 +1,4 @@
-# Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [英文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
+# Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
