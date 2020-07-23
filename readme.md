@@ -98,7 +98,6 @@
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
 | Adversarial-Learned Loss for Domain Adaptation  | AAAI 2020 |  | noisy label, adversarial learning ||
-| Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
 |Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection| AAAI 2020 || transfer learning, anamaly detection||
 |Dynamic Instance Normalization for Arbitrary Style Transfer|AAAI 2020| |dynamic instance normalization||
 |AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||gated output, fine-tune||
@@ -113,10 +112,6 @@
 |Progressive Graph Learning for Open-Set Domain Adaptation ([paper](https://arxiv.org/abs/2006.12087))|ICML 2020|[code](https://github.com/BUserName/PGL)|open set DA||
 |Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |**recommend to read, new trneds**|
 |Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||graph for DA| connenction with GCN |
-|Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
-|Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
-|Deep Divergence Learning ([paper](https://arxiv.org/pdf/2005.02612.pdf))|ICML 2020||divergence||
-|Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020|[code](https://github.com/daintlab/confidence-aware-learning)|confidence||
 |Learning Deep Kernels for Non-Parametric Two-Sample Tests ([paper](https://arxiv.org/pdf/2002.09116.pdf))|ICML 2020|[code](https://github.com/fengliu90/DK-for-TST)|extend MMD to deep||
 |Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision|CVPR 2020|[code](https://github.com/feipan664/IntraDA)|Entropy adversarial based||
 |Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective|CVPR 2020||long-tailed||
@@ -128,8 +123,6 @@
 |Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification|ECCV 2020||||
 |Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||||
 |Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
-|Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
-|Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
 |Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf))|CVPR 2019||weakly supervised + open DA||
 |Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes ([paper](https://arxiv.org/pdf/1904.09092.pdf))|TIP 2019||weakly supervised + DA||
 |Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||weakly supervised + DA||
@@ -155,7 +148,15 @@
 |Visualizing Transfer Learning|arvix 2020||interesting||
 
 ### 2) novel_papers on related fileds
-
+|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
+|  ----  | ----  | ---- | ---- | ---- |
+| Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
+|Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
+|Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
+|Deep Divergence Learning ([paper](https://arxiv.org/pdf/2005.02612.pdf))|ICML 2020||divergence||
+|Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020|[code](https://github.com/daintlab/confidence-aware-learning)|confidence||
+|Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
+|Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
 
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
