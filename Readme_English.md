@@ -64,7 +64,7 @@
 
 	
 ## Presentation
-   - VALSE Webinar 20-19 Transfer learning (It is strongly recommended! It is difficult for the beginers but helpful for improving! It is of high quality) [视频](https://space.bilibili.com/562085182/), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
+   - VALSE Webinar 20-19 Transfer learning (It is strongly recommended! It is difficult for the beginers but helpful for improving! It is of high quality) [video](https://space.bilibili.com/562085182/), [introduction](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
    - [Mingsheng Long_NJU2019 Transfer Learning Theories and Algorithms](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
    - [Mingsheng Long Valse 2019 Transfer Learning_From Algorithms to Theories and Back](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_valse2019_Transfer%20Learning_From%20Algorithms%20to%20Theories%20and%20Back)
    - [Kaichao You BAAI Live 2019 Advances in Domain Adaptation: Setting, Method and Model Selection](https://www.bilibili.com/video/BV15J411W7KX?from=search&seid=8739501206493640960)
