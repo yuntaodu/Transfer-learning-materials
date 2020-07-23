@@ -56,7 +56,7 @@
 - Jingdong Wang how to read papers 7.21[(pravite, same password with the above)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
 
 ## Good articles
-- Qiang Yang， From 0 to 1, how does transfer learning reach today's peak？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
+- Qiang Yang， From 0 to 1, how does transfer learning reach today's peak？[link](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
    	
 ## Conference videos
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)VPN
