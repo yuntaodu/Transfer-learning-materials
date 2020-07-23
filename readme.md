@@ -94,7 +94,7 @@
 - [Awesome-2](https://github.com/barebell/DA)
 
 ## novel_papers
-### novel_papers on transfer learning
+### 1) novel_papers on transfer learning
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
 | Adversarial-Learned Loss for Domain Adaptation  | AAAI 2020 |  | noisy label, adversarial learning ||
@@ -154,7 +154,7 @@
 |Do Adversarially Robust ImageNet Models Transfer Better?|arvix 2020|[code](https://github.com/Microsoft/robust-models-transfer)|Many experiments||
 |Visualizing Transfer Learning|arvix 2020||interesting||
 
-### novel_papers on related fileds
+### 2) novel_papers on related fileds
 
 
 ## tutorial_collection
