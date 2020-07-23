@@ -13,7 +13,7 @@
   * [novel papers](#novel_papers)
   * [tutorial collection](#tutorial_collection)
   
-## Getting_started
+## Getting started
 将一些本领域中的经典论文按照时间线进行分类、梳理，分为浅层域适应、深度域适应、对抗域适应和域适应领域四部分。
 
 针对每一部分，列举了3-4篇经典论文，建议详读这些经典论文，泛读这些经典论文的后续论文，并对其中的部分算法进行实现。
