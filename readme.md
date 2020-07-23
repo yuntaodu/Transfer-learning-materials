@@ -105,6 +105,7 @@
 |Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
 |Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 |Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
+|Unsupervised Transfer Learning for Spatiotemporal Predictive Networks ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-memory-icml20.pdf))|ICML 2020||||
 |Estimating Generalization under Distribution Shifts via Domain-Invariant Representations ([paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf))|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|**recommend to read**|
 |Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|ideas from theory|**recommend to read**|
 |LEEP: A New Measure to Evaluate Transferability of Learned Representations ([paper](https://arxiv.org/pdf/2002.12462.pdf))|ICML 2020||new metric for transferability|easy to use for other tasks|
@@ -125,6 +126,7 @@
 |Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
 |Do Adversarially Robust ImageNet Models Transfer Better?|arvix 2020|[code](https://github.com/Microsoft/robust-models-transfer)|Many experiments||
 |Visualizing Transfer Learning|arvix 2020||interesting||
+|A SURVEY ON DOMAIN ADAPTATION THEORY:LEARNING BOUNDS AND THEORETICAL GUARANTEES ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arvix 2020||theory||
 |Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf))|CVPR 2019||weakly supervised + open DA||
 |Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes ([paper](https://arxiv.org/pdf/1904.09092.pdf))|TIP 2019||weakly supervised + DA||
 |Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||weakly supervised + DA||
@@ -137,16 +139,16 @@
 |Active Domain Transfer on Network Embedding ([paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024))|WWW 2020||GCN + DA||
 |Adversarial Deep Network Embedding for Cross-network Node Classification ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf))|AAAI 2020|[code](https://github.com/shenxiaocam/ACDNE)|GCN+DA||
 |KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis ([paper](https://arxiv.org/pdf/2005.00791.pdf))|ACL 2020|[code](https://github.com/declare-lab/kingdom)|GCN + DA||
-|A SURVEY ON DOMAIN ADAPTATION THEORY:LEARNING BOUNDS AND THEORETICAL GUARANTEES ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arvix 2020||theory||
-|Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
-|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
-|Unsupervised Transfer Learning for Spatiotemporal Predictive Networks ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-memory-icml20.pdf))|ICML 2020||||
+
+(https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
+
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
 |Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
 |Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
 |Learning Semantic Representations for Unsupervised Domain Adaptation ([paper](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf))|(ICML 2018)|[code]()|||
 |Multi-Adversarial Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf))|AAAI 2018|[code](https://github.com/thuml/MADA)|||
-
+|Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
+|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper]
 
 ### 2) novel_papers on related fileds
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
