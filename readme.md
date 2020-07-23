@@ -135,16 +135,7 @@
 |SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
 |Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
-|Domain-Adversarial Graph Neural Networks for Text Classification ([paper](https://shiruipan.github.io/publication/icdm-19-wu/icdm-19-wu.pdf))|ICDM 2019||GCN + DA||
-|Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN + DA||
-|DANE: Domain Adaptive Network Embedding ([paper](https://www.ijcai.org/Proceedings/2019/0606.pdf))|IJCAI 2019||GCN+DA||
-|Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA||
-|Active Domain Transfer on Network Embedding ([paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024))|WWW 2020||GCN + DA||
-|Adversarial Deep Network Embedding for Cross-network Node Classification ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf))|AAAI 2020|[code](https://github.com/shenxiaocam/ACDNE)|GCN+DA||
-|KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis ([paper](https://arxiv.org/pdf/2005.00791.pdf))|ACL 2020|[code](https://github.com/declare-lab/kingdom)|GCN + DA||
-|Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
-|Learning Semantic Representations for Unsupervised Domain Adaptation ([paper](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf))|(ICML 2018)|[code]()|||
-|Multi-Adversarial Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf))|AAAI 2018|[code](https://github.com/thuml/MADA)|||
+
 |Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
 
 
@@ -158,6 +149,20 @@
 |Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020|[code](https://github.com/daintlab/confidence-aware-learning)|confidence||
 |Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
 |Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
+
+### 3) Our ideas 
+|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
+|  ----  | ----  | ---- | ---- | ---- |
+|Domain-Adversarial Graph Neural Networks for Text Classification ([paper](https://shiruipan.github.io/publication/icdm-19-wu/icdm-19-wu.pdf))|ICDM 2019||GCN + DA||
+|Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN + DA||
+|DANE: Domain Adaptive Network Embedding ([paper](https://www.ijcai.org/Proceedings/2019/0606.pdf))|IJCAI 2019||GCN+DA||
+|Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA||
+|Active Domain Transfer on Network Embedding ([paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024))|WWW 2020||GCN + DA||
+|Adversarial Deep Network Embedding for Cross-network Node Classification ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf))|AAAI 2020|[code](https://github.com/shenxiaocam/ACDNE)|GCN+DA||
+|KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis ([paper](https://arxiv.org/pdf/2005.00791.pdf))|ACL 2020|[code](https://github.com/declare-lab/kingdom)|GCN + DA||
+|Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
+|Learning Semantic Representations for Unsupervised Domain Adaptation ([paper](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf))|(ICML 2018)|[code]()|||
+|Multi-Adversarial Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf))|AAAI 2018|[code](https://github.com/thuml/MADA)|||
 
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
