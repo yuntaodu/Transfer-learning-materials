@@ -132,8 +132,7 @@
 |Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||weakly supervised + DA||
 |ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection ([paper](https://arxiv.org/pdf/1812.02510.pdf))|arvix 2018||weakly supervised + DA||
 |Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/bsrvision/weak_da_hands)|weakly supervised + DA||
-|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper]
-(https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
+|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
 |Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
 |Domain-Adversarial Graph Neural Networks for Text Classification ([paper](https://shiruipan.github.io/publication/icdm-19-wu/icdm-19-wu.pdf))|ICDM 2019||GCN + DA||
