@@ -50,10 +50,10 @@
 - [Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
 
 ## Research methodology
-- 督工 认知模型 [链接](https://www.bilibili.com/video/BV1P7411Y7bG)
-- 沈向洋 you are what you read [链接](https://www.bilibili.com/s/video/BV1df4y1m74k)
-- 沈向洋 how to read papers 7.18[(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/), [文字版](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
-- 王井东 how to read papers 7.21[(私有, 密码同上)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
+- Ma Qianzu cognitive model [链接](https://www.bilibili.com/video/BV1P7411Y7bG)
+- Harry Shum you are what you read [链接](https://www.bilibili.com/s/video/BV1df4y1m74k)
+- Harry Shum how to read papers 7.18[(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/), [文字版](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
+- Jingdong Wang how to read papers 7.21[(私有, 密码同上)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
 
 ## Good articles
 - 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
