@@ -2,9 +2,9 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 - [Materials for transfer learning](#materials-for-transfer-learning)
-  * [Getting started](#Getting started)
+  * [Getting started](#Getting-started)
   * [Excellent Scholars](#excellent-scholars)
-  * [New papers on some topic](#New papers on some topic)
+  * [New papers on some topic](#New-papers-on-some-topic)
   * [科研方法论](#科研方法论)
   * [好文整理](#好文整理)
   * [会议视频](#会议视频)
