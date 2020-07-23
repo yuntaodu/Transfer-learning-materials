@@ -50,10 +50,10 @@
 - [Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
 
 ## Research methodology
-- Ma Qianzu cognitive model [链接](https://www.bilibili.com/video/BV1P7411Y7bG)
-- Harry Shum you are what you read [链接](https://www.bilibili.com/s/video/BV1df4y1m74k)
-- Harry Shum how to read papers 7.18[(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/), [文字版](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
-- Jingdong Wang how to read papers 7.21[(私有, 密码同上)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
+- Ma Qianzu cognitive model [link](https://www.bilibili.com/video/BV1P7411Y7bG)
+- Harry Shum you are what you read [link](https://www.bilibili.com/s/video/BV1df4y1m74k)
+- Harry Shum how to read papers 7.18[(pravite)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/), [content](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
+- Jingdong Wang how to read papers 7.21[(pravite, same password with the above)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
 
 ## Good articles
 - Qiang Yang， From 0 to 1, how does transfer learning reach today's peak？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
