@@ -4,7 +4,7 @@
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [Getting started](#Getting started)
   * [Excellent Scholars](#excellent-scholars)
-  * [新论文追踪](#新论文追踪)
+  * [New papers on some topic](#New papers on some topic)
   * [科研方法论](#科研方法论)
   * [好文整理](#好文整理)
   * [会议视频](#会议视频)
@@ -13,7 +13,7 @@
   * [novel papers](#novel_papers)
   * [tutorial collection](#tutorial_collection)
   
-## 入门参考
+## Getting_started
 将一些本领域中的经典论文按照时间线进行分类、梳理，分为浅层域适应、深度域适应、对抗域适应和域适应领域四部分。
 
 针对每一部分，列举了3-4篇经典论文，建议详读这些经典论文，泛读这些经典论文的后续论文，并对其中的部分算法进行实现。
@@ -43,7 +43,7 @@
 - [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
 - [宫博庆 Google Research](http://boqinggong.info/)
 
-## 新论文追踪
+## New papers on some topic
 
 - [Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
 - [Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
