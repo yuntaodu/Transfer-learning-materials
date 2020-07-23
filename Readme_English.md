@@ -30,18 +30,18 @@
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
 
 ## Excellent Scholars
-- [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
-- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
-- [张宇 南方科技大学](https://yuzhanghk.github.io/)
-- [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
-- [王晋东 微软亚洲研究院](http://jd92.wang/)
-- [张磊 重庆大学](http://www.leizhang.tk/)
+- [Mingsheng Long THU](http://ise.thss.tsinghua.edu.cn/~mlong/)
+- [Fuzhen Zhuang CAS](http://www.intsci.ac.cn/users/zhuangfuzhen/)
+- [Yu Zhang SUST](https://yuzhanghk.github.io/)
+- [Wen Li UESTC](http://www.vision.ee.ethz.ch/~liwenw/)
+- [Jindong Wang MSRA](http://jd92.wang/)
+- [Lei Zhang CQUST](http://www.leizhang.tk/)
 - [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
 - [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
 - [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
 - [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
-- [宫博庆 Google Research](http://boqinggong.info/)
+- [Boqing Gong Google Research](http://boqinggong.info/)
 
 ## New papers on some topic
 
