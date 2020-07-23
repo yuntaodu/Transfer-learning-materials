@@ -73,7 +73,7 @@
    
 
 ## Other githubs
-- [王晋东](https://github.com/jindongwang)
+- [Jindong Wang](https://github.com/jindongwang)
 - [ThuML](https://github.com/thuml)
 - [Awesome-1](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
 - [Awesome-2](https://github.com/barebell/DA)
