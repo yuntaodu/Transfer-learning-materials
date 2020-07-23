@@ -132,6 +132,10 @@
 |Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||weakly supervised + DA||
 |ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection ([paper](https://arxiv.org/pdf/1812.02510.pdf))|arvix 2018||weakly supervised + DA||
 |Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/bsrvision/weak_da_hands)|weakly supervised + DA||
+|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper]
+(https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
+|Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
+|Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
 |Domain-Adversarial Graph Neural Networks for Text Classification ([paper](https://shiruipan.github.io/publication/icdm-19-wu/icdm-19-wu.pdf))|ICDM 2019||GCN + DA||
 |Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN + DA||
 |DANE: Domain Adaptive Network Embedding ([paper](https://www.ijcai.org/Proceedings/2019/0606.pdf))|IJCAI 2019||GCN+DA||
@@ -139,16 +143,11 @@
 |Active Domain Transfer on Network Embedding ([paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024))|WWW 2020||GCN + DA||
 |Adversarial Deep Network Embedding for Cross-network Node Classification ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf))|AAAI 2020|[code](https://github.com/shenxiaocam/ACDNE)|GCN+DA||
 |KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis ([paper](https://arxiv.org/pdf/2005.00791.pdf))|ACL 2020|[code](https://github.com/declare-lab/kingdom)|GCN + DA||
-
-(https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
-
-|Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
-|Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
 |Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
 |Learning Semantic Representations for Unsupervised Domain Adaptation ([paper](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf))|(ICML 2018)|[code]()|||
 |Multi-Adversarial Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf))|AAAI 2018|[code](https://github.com/thuml/MADA)|||
 |Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
-|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper]
+
 
 ### 2) novel_papers on related fileds
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
