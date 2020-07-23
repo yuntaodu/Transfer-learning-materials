@@ -8,10 +8,6 @@
   * [好文整理](#好文整理)
   * [会议视频](#会议视频)
   * [Presentation](#presentation)
-  <!-- * [论文整理](#论文整理)   
-  <!--* [Template](#Template)
-    + [ppt](#ppt)
-   -->
   * [Other githubs](#other-githubs)
   * [novel papers](#novel_papers)
   * [tutorial collection](#tutorial_collection)
@@ -75,18 +71,6 @@
    - [吴恩达 NIPS 2016  Nuts and bolts of building AI applications using Deep Learning](https://github.com/dududuAA/TL_group/tree/master/presentation/%E5%90%B4%E6%81%A9%E8%BE%BE_NIPS2016_Nuts%20and%20bolts%20of%20building%20AI%20applications%20using%20Deep%20Learning)
    
 
- <!--
-## 论文整理
-   - 非深度迁移学习
-		- [LDA](https://github.com/dududuAA/TL/tree/master/%E8%AE%BA%E6%96%87%E6%95%B4%E7%90%86/%E9%9D%9E%E6%B7%B1%E5%BA%A6%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0/LDA)
-   - 深度迁移学习
-   - 对抗迁移学习
--->
- <!--
-## Template
-  ### ppt
-  - [参考1](https://github.com/dududuAA/TL_group/blob/master/template/ppt/%E5%8F%82%E8%80%831.pptx) (A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses)
--->
 ## Other githubs
 - [王晋东](https://github.com/jindongwang)
 - [ThuML](https://github.com/thuml)
@@ -152,20 +136,7 @@
 |Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
 
 ### 3) Our ideas 
-<!--
-|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
-|  ----  | ----  | ---- | ---- | ---- |
-|Domain-Adversarial Graph Neural Networks for Text Classification ([paper](https://shiruipan.github.io/publication/icdm-19-wu/icdm-19-wu.pdf))|ICDM 2019||GCN + DA||
-|Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN + DA||
-|DANE: Domain Adaptive Network Embedding ([paper](https://www.ijcai.org/Proceedings/2019/0606.pdf))|IJCAI 2019||GCN+DA||
-|Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA||
-|Active Domain Transfer on Network Embedding ([paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024))|WWW 2020||GCN + DA||
-|Adversarial Deep Network Embedding for Cross-network Node Classification ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf))|AAAI 2020|[code](https://github.com/shenxiaocam/ACDNE)|GCN+DA||
-|KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis ([paper](https://arxiv.org/pdf/2005.00791.pdf))|ACL 2020|[code](https://github.com/declare-lab/kingdom)|GCN + DA||
-|Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
-|Learning Semantic Representations for Unsupervised Domain Adaptation ([paper](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf))|(ICML 2018)|[code]()|||
-|Multi-Adversarial Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf))|AAAI 2018|[code](https://github.com/thuml/MADA)|||
--->
+
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
