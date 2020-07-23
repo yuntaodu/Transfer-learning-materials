@@ -7,7 +7,7 @@
   * [New papers on some topic](#New-papers-on-some-topic)
   * [Research methodology](#Research-methodology)
   * [Good articles](#Good-articles)
-  * [会议视频](#会议视频)
+  * [Conference videos](#Conference-videos)
   * [Presentation](#presentation)
   * [Other githubs](#other-githubs)
   * [novel papers](#novel_papers)
@@ -58,7 +58,7 @@
 ## Good articles
 - 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
    	
-## 会议视频
+## Conference videos
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
 - [ICLR 2020 视频回放(maybe 科学上网)](https://iclr.cc/virtual_2020/calendar.html#tab-Monday)
 
