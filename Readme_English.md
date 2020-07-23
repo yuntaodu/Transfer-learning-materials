@@ -62,7 +62,7 @@
 - Qiang Yang， From 0 to 1, how does transfer learning reach today's peak？[link](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
    	
 ## Conference videos
-- [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)VPN
+- [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
 - [ICLR 2020 Video playback(maybe VPN)](https://iclr.cc/virtual_2020/calendar.html#tab-Monday)
 
 	
