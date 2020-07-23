@@ -150,6 +150,7 @@
 |Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
 
 ### 3) Our ideas 
+<!--
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
 |Domain-Adversarial Graph Neural Networks for Text Classification ([paper](https://shiruipan.github.io/publication/icdm-19-wu/icdm-19-wu.pdf))|ICDM 2019||GCN + DA||
@@ -162,7 +163,7 @@
 |Adversarial Multiple Source Domain Adaptation ([paper](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2018/nips2018_main.pdf))|NIPS 2018|[code](https://github.com/hanzhaoml/MDAN)|Multi source||
 |Learning Semantic Representations for Unsupervised Domain Adaptation ([paper](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf))|(ICML 2018)|[code]()|||
 |Multi-Adversarial Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf))|AAAI 2018|[code](https://github.com/thuml/MADA)|||
-
+-->
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
