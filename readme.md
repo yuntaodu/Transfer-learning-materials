@@ -31,6 +31,10 @@
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
 
 ## 数据集
+适用深度网络的数据集
+
+适用非深度网络的数据集(传统方法)
+
 
 ## CCF截稿日期
 CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了当年的CCF推荐列表的截稿时间，包括了全部的CCF会议deadline和CCF期刊的special issue, 可作为一个近似参考，详细时间及内容建议查询官网确认。
