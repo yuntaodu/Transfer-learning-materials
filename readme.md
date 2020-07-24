@@ -3,6 +3,7 @@
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
   * [数据集](#数据集)
+  * [CCF截稿日期](#CCF截稿日期)
   * [Excellent Scholars](#excellent-scholars)
   * [新论文追踪](#新论文追踪)
   * [科研方法论](#科研方法论)
@@ -30,6 +31,11 @@
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
 
 ## 数据集
+
+## CCF截稿日期
+CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了当年的CCF推荐列表的截稿时间，包括了全部的CCF会议deadline和CCF期刊的special issue, 可作为一个近似参考，详细时间及内容建议查询官网确认。
+链接：[Call4Papars](http://www.call4papers.cn:8080/ccf/ccf-8.jsp)
+
 ## Excellent Scholars
 - [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
 - [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
