@@ -3,6 +3,7 @@
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
   * [数据集](#数据集)
+  * [迁移学习竞赛](#迁移学习竞赛)
   * [CCF截稿日期](#CCF截稿日期)
   * [Excellent Scholars](#excellent-scholars)
   * [新论文追踪](#新论文追踪)
@@ -34,6 +35,8 @@
 适用深度网络的数据集
 
 适用非深度网络的数据集(传统方法)
+
+## 迁移学习竞赛
 
 
 ## CCF截稿日期
