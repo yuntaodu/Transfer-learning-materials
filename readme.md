@@ -32,10 +32,9 @@
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
 
 ## 数据集
-适用深度网络的数据集
 
+适用深度网络的数据集
     - mnist, svhn, digit, mnistm, cifar, stl (以上皆为.mat格式) [链接](https://box.nju.edu.cn/d/b88420b4d9fd42e78ef5/)
-    
 适用非深度网络的数据集(传统方法)
 
 ## 迁移学习竞赛
