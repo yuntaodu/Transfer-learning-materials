@@ -152,6 +152,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020|[code](https://github.com/daintlab/confidence-aware-learning)|confidence||
 |Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
 |Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
+|https://arxiv.org/pdf/2007.05869.pdf([paper](https://arxiv.org/pdf/2007.05869.pdf)|arvix 2020|||new findings|
 
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
