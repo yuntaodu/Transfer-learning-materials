@@ -138,7 +138,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
 |Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
 |Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
-
+|Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification ([paper](https://arxiv.org/pdf/2007.10315.pdf))|arvix 2020|||Good ideas|
+|Towards Recognizing Unseen Categories in Unseen Domains ([paper](https://arxiv.org/pdf/2007.12256.pdf))|arvix 2020|||new problems|
 
 ### 2) novel_papers on related fileds
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
