@@ -141,6 +141,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification ([paper](https://arxiv.org/pdf/2007.10315.pdf))|arvix 2020|||Good ideas|
 |Towards Recognizing Unseen Categories in Unseen Domains ([paper](https://arxiv.org/pdf/2007.12256.pdf))|arvix 2020|||new problems|
 |MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.12684.pdf))|arvix 2020|||good framework|
+|Dynamic Knowledge Distillation for Black-box Hypothesis Transfer Learning ([paper](https://arxiv.org/pdf/2007.12355.pdf)|arvix 2020||||
 ### 2) novel_papers on related fileds
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
