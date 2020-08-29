@@ -1,5 +1,8 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
+update:
+* (2020,8,29) 新增龙老师ccdm 2020报告视频
+
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
   * [数据集](#数据集)
@@ -86,6 +89,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 
 	
 ## Presentation
+   - [龙明盛 CCDM 2020] [视频](https://www.bilibili.com/video/BV1ZK4y1Y77u?from=search&seid=13208916633723128421) , [ppt](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transfer-learning-theories-and-algorithms-ccdm20.pdf)
    - VALSE Webinar 20-19期 迁移学习 (个人非常推荐, 对新手不友好，对进阶有帮助，质量很高!) [视频](https://www.bilibili.com/video/BV19v411q7jk), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
    - [龙明盛_NJU2019 Transfer Learning Theories and Algorithms](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
    - [龙明盛 Valse 2019 Transfer Learning_From Algorithms to Theories and Back](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_valse2019_Transfer%20Learning_From%20Algorithms%20to%20Theories%20and%20Back)
