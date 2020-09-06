@@ -2,6 +2,7 @@
 
 update:
 * (2020,8,29) 新增龙老师ccdm 2020报告视频
+* (2020,9,6) 新增DA paper
 
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
