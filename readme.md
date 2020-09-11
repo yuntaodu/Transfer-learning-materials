@@ -140,6 +140,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification|ECCV 2020||||
 |Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||||
 |Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
+|Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.07695.pdf)|ECCV 2020|[code](https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors)|SSL reguralization, Anchors|new methods, good writings|
 |Do Adversarially Robust ImageNet Models Transfer Better?|arvix 2020|[code](https://github.com/Microsoft/robust-models-transfer)|Many experiments||
 |Visualizing Transfer Learning|arvix 2020||interesting||
 |A SURVEY ON DOMAIN ADAPTATION THEORY:LEARNING BOUNDS AND THEORETICAL GUARANTEES ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arvix 2020||theory||
