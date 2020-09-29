@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2020,9,29) 新增迁移学习理论小结，OTL小结
 * (2020,9,28) 新增DA paper
 * (2020,9,6) 新增DA paper, 科研方法论相关视频
 * (2020,8,29) 新增龙老师ccdm 2020报告视频
@@ -36,6 +37,12 @@ update:
    - [week 3](https://github.com/dududuAA/TL/tree/master/discuss/week3_10-30)
    - [week 4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
+
+
+## 小结
+
+- 迁移学习理论 [ppt](), [pdf]()
+- Online Transfer Learning [pdf]()
 
 ## 数据集
 
