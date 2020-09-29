@@ -41,8 +41,8 @@ update:
 
 ## 小结
 
-- 迁移学习理论 [ppt](), [pdf]()
-- Online Transfer Learning [pdf]()
+- 迁移学习理论 [ppt](https://github.com/dududuAA/Transfer-learning-materials/blob/master/summary/theory.pptx), [pdf](https://github.com/dududuAA/Transfer-learning-materials/blob/master/summary/Domain_Divergence.pdf)
+- Online Transfer Learning [pdf](https://github.com/dududuAA/Transfer-learning-materials/blob/master/summary/Online_transfer%20(4).pdf)
 
 ## 数据集
 
