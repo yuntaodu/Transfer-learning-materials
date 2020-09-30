@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2020,9,30) 新增DA paper, related paper
 * (2020,9,29) 新增迁移学习理论小结，OTL小结
 * (2020,9,28) 新增DA paper
 * (2020,9,6) 新增DA paper, 科研方法论相关视频
@@ -173,6 +174,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
+|Adversarial Examples Improve Image Recognition ([paper](http://boqinggong.info/papers/cvpr20-advprop.pdf))|CVPR 2020||Adversarial examples, image recognition, batch normalization|Same idea can be explored in DA|
 | Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
 |Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
 |Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
