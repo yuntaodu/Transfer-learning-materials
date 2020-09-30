@@ -122,6 +122,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
+|Measuring Information Transfer in Neural Networks([paper](https://arxiv.org/pdf/2009.07624.pdf))||||interesting paper|
 |Neural transfer learning for natural language processing（[paper](https://aran.library.nuigalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf?sequence=1))|2019 PDH thesis||NLP, transfer lerning|very detailed related work|
 |When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets([paper](https://arxiv.org/pdf/1812.05313.pdf))|||SSL, TL, experiments|many results related to multiple SSL methods can be seen in this paper|
 |Unsupervised Transfer Learning for Spatiotemporal Predictive Networks ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-memory-icml20.pdf))|ICML 2020||||
