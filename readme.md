@@ -123,6 +123,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
+|Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.09375.pdf))|ECCV 2020|[code](https://github.com/TKKim93/APE)|SSDA, intar-domain discrepancy|good questions|
 |Measuring Information Transfer in Neural Networks([paper](https://arxiv.org/pdf/2009.07624.pdf))||||interesting paper|
 |Neural transfer learning for natural language processing（[paper](https://aran.library.nuigalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf?sequence=1))|2019 PDH thesis||NLP, transfer lerning|very detailed related work|
 |When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets([paper](https://arxiv.org/pdf/1812.05313.pdf))|||SSL, TL, experiments|many results related to multiple SSL methods can be seen in this paper|
