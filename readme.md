@@ -1,7 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
-* (2020,9,30) 新增1个DA paper, 1个related paper
+* (2020,10,1) 新增2个DA paper, 1个related paper
 * (2020,9,30) 新增2个DA paper, 1个related paper
 * (2020,9,29) 新增迁移学习理论小结，OTL小结
 * (2020,9,28) 新增DA paper
