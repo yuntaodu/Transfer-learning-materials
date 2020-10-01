@@ -177,16 +177,16 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  ----  | ----  | ---- | ---- | ---- |
-|Adversarial Examples Improve Image Recognition ([paper](http://boqinggong.info/papers/cvpr20-advprop.pdf))|CVPR 2020||Adversarial examples, image recognition, batch normalization|Same idea can be explored in DA|
-| Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
-|Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
-|Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
-|Deep Divergence Learning ([paper](https://arxiv.org/pdf/2005.02612.pdf))|ICML 2020||divergence||
-|Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020|[code](https://github.com/daintlab/confidence-aware-learning)|confidence||
-|Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
-|Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
-|Adversarially-Trained Deep Nets Transfer Better([paper](https://arxiv.org/pdf/2007.05869.pdf)|arvix 2020|||new findings|
-|Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation|arvix ([paper](https://arxiv.org/pdf/2007.08801.pdf))|||same ideas with us|
+|9|Adversarial Examples Improve Image Recognition ([paper](http://boqinggong.info/papers/cvpr20-advprop.pdf))|CVPR 2020||Adversarial examples, image recognition, batch normalization|Same idea can be explored in DA|
+|8| Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
+|7|Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
+|6|Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
+|5|Deep Divergence Learning ([paper](https://arxiv.org/pdf/2005.02612.pdf))|ICML 2020||divergence||
+|4|Confidence-Aware Learning for Deep Neural Networks ([paper](https://arxiv.org/pdf/2007.01458.pdf))|ICML 2020|[code](https://github.com/daintlab/confidence-aware-learning)|confidence||
+|3|Continual Learning in Human Activity Recognition:an Empirical Analysis of Regularization ([paper](https://arxiv.org/pdf/2007.03032.pdf))|ICML workshop|[code](https://github.com/srvCodes/continual-learning-benchmark)|Continual learning bechmark||
+|2|Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
+|1|Adversarially-Trained Deep Nets Transfer Better([paper](https://arxiv.org/pdf/2007.05869.pdf)|arvix 2020|||new findings|
+|0|Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation|arvix ([paper](https://arxiv.org/pdf/2007.08801.pdf))|||same ideas with us|
 
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
