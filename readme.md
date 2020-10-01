@@ -124,6 +124,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|50|Impact of ImageNet Model Selection on Domain Adaptation([paper](https://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_Adaptation_WACVW_2020_paper.pdf))|WACV 2020 workshop||shallow methods with different deep features|**实验结果很迷惑**|
 |49|Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks([paper](https://arxiv.org/pdf/2004.10964.pdf))|arvix 2020||pretraining|good papers|
 |48|Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.09375.pdf))|ECCV 2020|[code](https://github.com/TKKim93/APE)|SSDA, intar-domain discrepancy|**good questions**|
 |47|Measuring Information Transfer in Neural Networks([paper](https://arxiv.org/pdf/2009.07624.pdf))||||interesting paper|
