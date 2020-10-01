@@ -1,7 +1,9 @@
  
  
  在文件夹下的文件结构如下:
+ 
      week1/2/.../
+     
         -- PPT
         -- reading papers
         -- supplymentary_materials
