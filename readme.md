@@ -175,8 +175,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |1|Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition ([paper](https://arxiv.org/pdf/2008.00859.pdf))|ACM MM 2020|||similar idea with us|
 |0|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [paper](https://arxiv.org/pdf/2009.00155.pdf)|arvix 2020||Review|a good review! It contains many results of the state-of-the-art method|
 ### 2) novel_papers on related fileds
-|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
-|  ----  | ----  | ---- | ---- | ---- |
+|number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
+| ---- | ----  | ----  | ---- | ---- | ---- |
 |9|Adversarial Examples Improve Image Recognition ([paper](http://boqinggong.info/papers/cvpr20-advprop.pdf))|CVPR 2020||Adversarial examples, image recognition, batch normalization|Same idea can be explored in DA|
 |8| Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
 |7|Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
