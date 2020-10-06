@@ -125,6 +125,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|52|Open-Set Hypothesis Transfer with Semantic Consistency ([paper](https://arxiv.org/pdf/2010.00292.pdf))|arvix 2020||source free, open set||
 |51|Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling ([paper](https://arxiv.org/pdf/2002.05616.pdf))|ICML 2020||stein discrepancy|a new metric that is never used in DA|
 |50|Impact of ImageNet Model Selection on Domain Adaptation([paper](https://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_Adaptation_WACVW_2020_paper.pdf))|WACV 2020 workshop||shallow methods with different deep features|**实验结果很迷惑**|
 |49|Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks([paper](https://arxiv.org/pdf/2004.10964.pdf))|arvix 2020||pretraining|good papers|
@@ -180,6 +181,9 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|12|Safe semi-supervised learning: a brief introduction ([paper](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf))|||safe ssl|new concept, maybe useful for negative transfer|
+|11|Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data ([paper](https://proceedings.icml.cc/static/paper_files/icml/2020/3231-Paper.pdf))|ICML 2020|[code](https://www.lamda.nju.edu.cn/code DS3L)|ssl, unseen class|open set, maybe useful for negative transfer|
+|10| (RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shif[paper](http://www.lamda.nju.edu.cn/guolz/KDD2020_RECORD.pdf))|KDD 2020|online, distribution shift|maybe useful for negative transfer|
 |9|Adversarial Examples Improve Image Recognition ([paper](http://boqinggong.info/papers/cvpr20-advprop.pdf))|CVPR 2020||Adversarial examples, image recognition, batch normalization|Same idea can be explored in DA|
 |8| Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning  | AAAI 2020 |  | unsupervised learning, semi-supervised learning ||
 |7|Self-supervised Label Augmentation via Input Transformations|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
