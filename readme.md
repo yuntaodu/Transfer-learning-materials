@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2020,11,3）新增1个DA paper
 * (2020,10,30) 新增1个related paper
 * (2020,10,6) 新增2个DA paper,3个related paper
 * (2020,10,5) 新增1个DA paper
@@ -127,6 +128,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|54|Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID ([paper](https://arxiv.org/abs/2006.02713))|NIPS 2020|[code](https://github.com/yxgeee/SpCL)|contrastive learning, DA, Re-ID|contrastive learning + DA|
 |53|Measuring Information Transfer in Neural Networks ([paper](https://arxiv.org/pdf/2009.07624.pdf))|arvix 2020|||maybe useful for DA|
 |52|Open-Set Hypothesis Transfer with Semantic Consistency ([paper](https://arxiv.org/pdf/2010.00292.pdf))|arvix 2020||source free, open set||
 |51|Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling ([paper](https://arxiv.org/pdf/2002.05616.pdf))|ICML 2020||stein discrepancy|a new metric that is never used in DA|
