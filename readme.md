@@ -1,7 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
-* (2020,11,3）新增1个DA paper
+* (2020,11,3）新增1个DA paper, 新增1个related paper
 * (2020,10,30) 新增1个related paper
 * (2020,10,6) 新增2个DA paper,3个related paper
 * (2020,10,5) 新增1个DA paper
@@ -186,6 +186,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|14|Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-Supervised Medical Image Segmentation ([paper](https://arxiv.org/abs/2007.09854))|MICCAI 2020||ssl, pseudo label||
 |13|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning ([paper](https://arxiv.org/pdf/2007.01293v1.pdf))|NIPS 2020||semi-supervised, weight smaples|it can be used in our work|
 |12|Safe semi-supervised learning: a brief introduction ([paper](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf))|||safe ssl|new concept, maybe useful for negative transfer|
 |11|Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data ([paper](https://proceedings.icml.cc/static/paper_files/icml/2020/3231-Paper.pdf))|ICML 2020|[code](https://www.lamda.nju.edu.cn/code_DS3L)|ssl, unseen class|open set, maybe useful for negative transfer|
