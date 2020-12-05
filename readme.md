@@ -131,8 +131,10 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|59|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING?|ICLR 2021(under review)||contranstive learning, TL|new findings|
+|58|ADVERSARIALLY-TRAINED DEEP NETS TRANSFER BETTER ON IMAGE RECOGNITION|ICLR 2021(under review)||adversarial training, TL| new findings|
 |57|Unsupervised Domain Adaptation without Source Data by Casting a BAIT([paper](https://arxiv.org/pdf/2010.12427.pdf))|Arvix 2020||source-free, two classifiers|good idea|
-|56|Your Classifier can Secretly Suffice Multi-Source Domain Adaptation|NeruIPS 2020 ([paper](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf))|[code](https://sites.google.com/view/simpal)|MS, prediction agreement|simple yet effective method, new findings|
+|56|Your Classifier can Secretly Suffice Multi-Source Domain Adaptation ([paper](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf))|NeruIPS 2020 |[code](https://sites.google.com/view/simpal)|MS, prediction agreement|simple yet effective method, new findings|
 |55|An Adversarial Domain Adaptation Network for Cross-Domain Fine-Grained Recognition([paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Wang_An_Adversarial_Domain_Adaptation_Network_for_Cross-Domain_Fine-Grained_Recognition_WACV_2020_paper.pdf))|WACV 2020|[code](https://yimuwang96.github.io/DA-Retail/index.html#1-abstract)|fine-grained, DA| new question|
 |54|Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID ([paper](https://arxiv.org/abs/2006.02713))|NIPS 2020|[code](https://github.com/yxgeee/SpCL)|contrastive learning, DA, Re-ID|contrastive learning + DA|
 |53|Measuring Information Transfer in Neural Networks ([paper](https://arxiv.org/pdf/2009.07624.pdf))|arvix 2020|||maybe useful for DA|
