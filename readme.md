@@ -2,8 +2,7 @@
 
 update:
 * (2020,12,5）新增4个DA paper
-* (2020,11,25）新增2个DA paper
-* (2020,11,13）新增3个DA paper, 
+* (2020,11,25）新增5个DA paper 
 * (2020,11,3）新增1个DA paper, 新增1个related paper
 * (2020,10,30) 新增1个related paper
 * (2020,10,6) 新增2个DA paper,3个related paper
