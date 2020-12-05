@@ -131,6 +131,9 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|63|Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation ([paper](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf))||open compound, DA|new problem|
+|62|Adversarial Domain Adaptation with Domain Mixup ([paper](https://arxiv.org/pdf/1912.01805.pdf))|IJCAI 2019||mix-ip, DA|new idea|
+|61|DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns ([paper](https://www.ijcai.org/Proceedings/2019/0587.pdf))||DA, cross-domain recommendation|classical work|
 |60|Unsupervised Domain Adaptation with Hierarchical Gradient Synchronization ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Unsupervised_Domain_Adaptation_With_Hierarchical_Gradient_Synchronization_CVPR_2020_paper.pdf))|CVPR 2020||class gropu, DA|new idea|
 |59|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021(under review)||contranstive learning, TL|new findings|
 |58|ADVERSARIALLY-TRAINED DEEP NETS TRANSFER BETTER ON IMAGE RECOGNITION ([paper](https://arxiv.org/pdf/2007.05869.pdf))|ICLR 2021(under review)||adversarial training, TL| new findings|
