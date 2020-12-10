@@ -186,7 +186,6 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |11|MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.12684.pdf))|arvix 2020|||good framework|
 |10|Dynamic Knowledge Distillation for Black-box Hypothesis Transfer Learning ([paper](https://arxiv.org/pdf/2007.12355.pdf)|arvix 2020||||
 |9|Learning from a Complementary-label Source Domain: Theory and Algorithms([paper](https://arxiv.org/pdf/2008.01454.pdf))|arvix 2020|[code](https://github.com/Yiyang98/BFUDA)||novel idea|
-
 |8|Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation ([paper](https://arxiv.org/pdf/2008.01677.pdf))|ACM MM 2020|[code](https://github.com/BIT-DA/SSAN)|||
 |7|Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition ([paper](https://arxiv.org/pdf/2008.00859.pdf))|ACM MM 2020|||similar idea with us|
 |6|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [paper](https://arxiv.org/pdf/2009.00155.pdf)|arvix 2020||Review|a good review! It contains many results of the state-of-the-art method|
