@@ -2,3 +2,5 @@ discuss/week2_10-23/experiment/ARTL/data/*.mat
 
 !discuss/week2_10-23/experiment/ARTL/data/USPS_vs_MNIST_1.mat
 !discuss/week2_10-23/experiment/ARTL/data/USPS_vs_MNIST_2.mat
+
+.DS_Store
