@@ -131,6 +131,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|66|Unsupervised Domain Adaptation without Source Data by Casting a BAIT ([paper](https://arxiv.org/pdf/2010.12427.pdf))|arvix 2020||source-free DA, prototype|good idea|
 |65|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation ([paper](https://arxiv.org/pdf/2009.00155v3.pdf))|arvix 2020||DA survey|good further directions|
 |64|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021(under review)||contranstive learning, TL|new findings|
 |63|ADVERSARIALLY-TRAINED DEEP NETS TRANSFER BETTER ON IMAGE RECOGNITION ([paper](https://arxiv.org/pdf/2007.05869.pdf))|ICLR 2021(under review)||adversarial training, TL| new findings|
