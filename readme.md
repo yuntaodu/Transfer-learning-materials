@@ -134,10 +134,10 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |58|ADVERSARIALLY-TRAINED DEEP NETS TRANSFER BETTER ON IMAGE RECOGNITION ([paper](https://arxiv.org/pdf/2007.05869.pdf))|ICLR 2021(under review)||adversarial training, TL| new findings|
 |63|Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation ([paper](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf))|NeruIPS 2020||open compound, DA|new problem|
 |56|Your Classifier can Secretly Suffice Multi-Source Domain Adaptation ([paper](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf))|NeruIPS 2020 |[code](https://sites.google.com/view/simpal)|MS, prediction agreement|simple yet effective method, new findings|
+|54|Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID ([paper](https://arxiv.org/abs/2006.02713))|NIPS 2020|[code](https://github.com/yxgeee/SpCL)|contrastive learning, DA, Re-ID|contrastive learning + DA|
 |57|Unsupervised Domain Adaptation without Source Data by Casting a BAIT([paper](https://arxiv.org/pdf/2010.12427.pdf))|Arvix 2020||source-free, two classifiers|good idea|
 |55|An Adversarial Domain Adaptation Network for Cross-Domain Fine-Grained Recognition([paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Wang_An_Adversarial_Domain_Adaptation_Network_for_Cross-Domain_Fine-Grained_Recognition_WACV_2020_paper.pdf))|WACV 2020|[code](https://yimuwang96.github.io/DA-Retail/index.html#1-abstract)|fine-grained, DA| new question|
 |8|Class-incremental Learning via Deep Model Consolidation ([paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Class-incremental_Learning_via_Deep_Model_Consolidation_WACV_2020_paper.pdf))|WACV 2020||||
-|54|Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID ([paper](https://arxiv.org/abs/2006.02713))|NIPS 2020|[code](https://github.com/yxgeee/SpCL)|contrastive learning, DA, Re-ID|contrastive learning + DA|
 |50|Impact of ImageNet Model Selection on Domain Adaptation([paper](https://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_Adaptation_WACVW_2020_paper.pdf))|WACV 2020 workshop||shallow methods with different deep features|**实验结果很迷惑**|
 |53|Measuring Information Transfer in Neural Networks ([paper](https://arxiv.org/pdf/2009.07624.pdf))|arvix 2020|||maybe useful for DA|
 |52|Open-Set Hypothesis Transfer with Semantic Consistency ([paper](https://arxiv.org/pdf/2010.00292.pdf))|arvix 2020||source free, open set||
@@ -177,6 +177,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |20|Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
 |19|Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.07695.pdf)|ECCV 2020|[code](https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors)|SSL reguralization, Anchors|new methods, good writings|
 |17|Class-Incremental Domain Adaptation([paper](https://arxiv.org/pdf/2008.01389.pdf))|ECCV 2020|||new problems|
+|8|Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation ([paper](https://arxiv.org/pdf/2008.01677.pdf))|ACM MM 2020|[code](https://github.com/BIT-DA/SSAN)|||
+|7|Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition ([paper](https://arxiv.org/pdf/2008.00859.pdf))|ACM MM 2020|||similar idea with us|
 |16|Do Adversarially Robust ImageNet Models Transfer Better?|arvix 2020|[code](https://github.com/Microsoft/robust-models-transfer)|Many experiments||
 |15|Visualizing Transfer Learning|arvix 2020||interesting||
 |14|A SURVEY ON DOMAIN ADAPTATION THEORY:LEARNING BOUNDS AND THEORETICAL GUARANTEES ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arvix 2020||theory||
@@ -185,8 +187,6 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |11|MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.12684.pdf))|arvix 2020|||good framework|
 |10|Dynamic Knowledge Distillation for Black-box Hypothesis Transfer Learning ([paper](https://arxiv.org/pdf/2007.12355.pdf)|arvix 2020||||
 |9|Learning from a Complementary-label Source Domain: Theory and Algorithms([paper](https://arxiv.org/pdf/2008.01454.pdf))|arvix 2020|[code](https://github.com/Yiyang98/BFUDA)||novel idea|
-|8|Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation ([paper](https://arxiv.org/pdf/2008.01677.pdf))|ACM MM 2020|[code](https://github.com/BIT-DA/SSAN)|||
-|7|Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition ([paper](https://arxiv.org/pdf/2008.00859.pdf))|ACM MM 2020|||similar idea with us|
 |6|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [paper](https://arxiv.org/pdf/2009.00155.pdf)|arvix 2020||Review|a good review! It contains many results of the state-of-the-art method|
 |46|Neural transfer learning for natural language processing（[paper](https://aran.library.nuigalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf?sequence=1))|2019 PDH thesis||NLP, transfer lerning|very detailed related work|
 |5|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
