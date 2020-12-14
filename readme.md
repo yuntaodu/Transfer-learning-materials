@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2020,12,14）新增7个 continous DA paper
 * (2020,12,10）新增1个DA paper
 * (2020,12,5）新增4个DA paper
 * (2020,11,25）新增5个DA paper 
