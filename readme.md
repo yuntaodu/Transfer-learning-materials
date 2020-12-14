@@ -131,6 +131,13 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|73|Incremental Adversarial Domain Adaptation for Continually Changing Environments ([paper](https://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_wulfmeier.pdf))|ICRA 2018||continual DA|new question|
+|72|ADAPTING TO CONTINUOUSLY SHIFTING DOMAINS ([paper](https://openreview.net/pdf?id=BJsBjPJvf))|ICLR 2018 workshop||continual DA|new question|
+|71|Continuous Domain Adaptation with Variational Domain-Agnostic Feature Replay ([paper](https://arxiv.org/pdf/2003.04382.pdf))|arvix 2020||continual DA|new question|
+|70|Continual Learning for Domain Adaptation in Chest X-ray Classification ([paper](https://arxiv.org/pdf/2001.05922.pdf))|MLR 2020(under review)||continual DA|new question|
+|69|Continual Domain Adaptation for Machine Reading Comprehension ([paper](https://arxiv.org/pdf/2008.10874.pdf))|CIKM 2020||continual DA|new question|
+|68|Continual Unsupervised Domain Adaptation with Adversarial Learning ([paper](https://arxiv.org/pdf/2010.09236.pdf))|arvix 2020||continual DA|new question|
+|67|Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning ([paper](https://arxiv.org/pdf/2012.04324.pdf))|arvix 2020||continual DA|new question|
 |66|Unsupervised Domain Adaptation without Source Data by Casting a BAIT ([paper](https://arxiv.org/pdf/2010.12427.pdf))|arvix 2020||source-free DA, prototype|good idea|
 |65|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation ([paper](https://arxiv.org/pdf/2009.00155v3.pdf))|arvix 2020||DA survey|good further directions|
 |64|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021(under review)||contranstive learning, TL|new findings|
