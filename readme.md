@@ -122,12 +122,6 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
    - 吴恩达 NIPS 2016  Nuts and bolts of building AI applications using Deep Learning  [视频(需科学上网)](https://www.youtube.com/watch?v=wjqaz6m42wU),[ppt](https://github.com/dududuAA/Transfer-learning-materials/blob/master/presentation/%E5%90%B4%E6%81%A9%E8%BE%BE_NIPS2016_Nuts%20and%20bolts%20of%20building%20AI%20applications%20using%20Deep%20Learning/Slides.pdf)
    
 
-## Other githubs
-- [王晋东](https://github.com/jindongwang)
-- [ThuML](https://github.com/thuml)
-- [Awesome-1](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
-- [Awesome-2](https://github.com/barebell/DA)
-
 ## novel_papers
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
@@ -225,7 +219,15 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |1|Adversarially-Trained Deep Nets Transfer Better([paper](https://arxiv.org/pdf/2007.05869.pdf)|arvix 2020|||new findings|
 |0|Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation|arvix ([paper](https://arxiv.org/pdf/2007.08801.pdf))|||same ideas with us|
 
+<!--
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
 |Weakly Supervised Domain Adaptation with Deep Learning ([link](http://mhug.disi.unitn.it/tutorial-acmmm16/pdf/dda-xgw.pdf))| ACM MM 2016 | Xiaogang Wang||
+-->
+
+## Other githubs
+- [王晋东](https://github.com/jindongwang)
+- [ThuML](https://github.com/thuml)
+- [Awesome-1](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
+- [Awesome-2](https://github.com/barebell/DA)
