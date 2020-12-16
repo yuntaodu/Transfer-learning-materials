@@ -19,18 +19,14 @@ update:
 
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
-  * [数据集](#数据集)
   * [迁移学习竞赛](#迁移学习竞赛)
   * [CCF截稿日期](#CCF截稿日期)
   * [Excellent Scholars](#excellent-scholars)
   * [新论文追踪](#新论文追踪)
   * [科研方法论](#科研方法论)
-  * [好文整理](#好文整理)
-  * [会议视频](#会议视频)
   * [Presentation](#presentation)
-  * [Other githubs](#other-githubs)
   * [novel papers](#novel_papers)
-  * [tutorial collection](#tutorial_collection)
+  * [Other githubs](#other-githubs)
   
 ## 入门参考
 本部分内容适合初学者，将一些本领域中的经典论文按照时间线进行分类、梳理，分为浅层域适应、深度域适应、对抗域适应和域适应领域四部分。
@@ -48,7 +44,7 @@ update:
    - [week 4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
 
-
+<!--
 ## 小结
 
 - 迁移学习理论 [ppt](https://github.com/dududuAA/Transfer-learning-materials/blob/master/summary/theory.pptx), [pdf](https://github.com/dududuAA/Transfer-learning-materials/blob/master/summary/Domain_Divergence.pdf)
@@ -62,6 +58,7 @@ update:
 * [Office](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view), [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view), [VisDA-C](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification), [Office-Caltech](http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz) from the official websites.
 
 适用非深度网络的数据集(传统方法)
+-->
 
 ## 迁移学习竞赛
 - [VisDA 2017 in ICCV 2017](http://ai.bu.edu/visda-2017/)
@@ -104,13 +101,14 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 - 胡瀚   how to read papers 8.2[(私有，密码同上)](https://box.nju.edu.cn/f/c3a79daf9b6e47539f24/)
 - 陈东东 how to read papers 8.5[(私有，密码同上)](https://box.nju.edu.cn/f/5cb5912b8736494486d0/)
 - 秦涛   do high-quality research [(私有，密码同上)](https://box.nju.edu.cn/f/b77b568e329345cda36b/)
+<!--
 ## 好文整理
 - 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
    	
 ## 会议视频
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
 - [ICLR 2020 视频回放(maybe 科学上网)](https://iclr.cc/virtual_2020/calendar.html#tab-Monday)
-
+-->
 	
 ## Presentation
    - 龙明盛 CCDM 2020 [视频](https://www.bilibili.com/video/BV1ZK4y1Y77u?from=search&seid=13208916633723128421) , [ppt](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transfer-learning-theories-and-algorithms-ccdm20.pdf)
