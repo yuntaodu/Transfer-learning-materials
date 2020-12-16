@@ -124,6 +124,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|75|Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation ([paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf))|ICCV 2019|[code](https://github.com/postBG/DTA.pytorch)|Cluster assumption, DA|deal with misclassified samples|
 |74|Cross-Modal Cross-Domain Moment Alignment Network for Person Search ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf))|CVPR 2020||cross-modal, DA, Person search|new problem|
 |73|Incremental Adversarial Domain Adaptation for Continually Changing Environments ([paper](https://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_wulfmeier.pdf))|ICRA 2018||continual DA|new question|
 |72|ADAPTING TO CONTINUOUSLY SHIFTING DOMAINS ([paper](https://openreview.net/pdf?id=BJsBjPJvf))|ICLR 2018 workshop||continual DA|new question|
