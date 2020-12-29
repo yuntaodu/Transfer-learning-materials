@@ -83,6 +83,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 - [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
 - [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
 - [宫博庆 Google Research](http://boqinggong.info/)
+- [宫明明 墨尔本大学](https://mingming-gong.github.io/)
 
 ## 新论文追踪
 
