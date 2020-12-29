@@ -34,7 +34,7 @@ update:
 针对每一部分，列举了3-4篇经典论文，建议详读这些经典论文，泛读这些经典论文的后续论文，并对其中的部分算法进行实现。
 
 预期学习时间为2-3个月, 详细计划安排见[入门参考](https://github.com/dududuAA/Transfer-learning-materials/blob/master/discuss/plan.pptx)
-
+<!--
 围绕这些论文，曾有一个相应的讨论班，相关的日程和资料如下：
 
    - [week 1](https://github.com/dududuAA/TL_group/tree/master/discuss/week1_10-14)
@@ -43,7 +43,7 @@ update:
    - [week 3](https://github.com/dududuAA/TL/tree/master/discuss/week3_10-30)
    - [week 4](https://github.com/dududuAA/TL/tree/master/discuss/week4_11-07)
    - [week 5](https://github.com/dududuAA/TL/tree/master/discuss/week5_11-13)
-
+-->
 <!--
 ## 小结
 
