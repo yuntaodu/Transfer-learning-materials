@@ -125,6 +125,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|80|Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis ([paper](https://arxiv.org/pdf/2101.00318.pdf))|AAAI 2021||UDA, application|similar idea with us|
+|79|How does the Combined Risk Affect the Performance of Unsupervised Domain Adaptation Approaches? ([paper](https://arxiv.org/pdf/2101.01104.pdf))|AAAI 2021|[code](https://github.com/zhonglii/E-MixNet)|UDA, the thidr term of theory||
 |78|Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2012.08226.pdf))|AAAI 2021||group alignment, UDA|similar idea with us|
 |77|Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2012.06995.pdf))|AAAI 2021||UDA|improvement for MCD|
 |76|A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data ([paper](https://arxiv.org/pdf/2012.05400.pdf))|AAAI 2021||source-free, Objective detection||
