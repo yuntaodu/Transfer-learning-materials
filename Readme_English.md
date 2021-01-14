@@ -85,71 +85,91 @@
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|64|Graph Optimal Transport for Cross-Domain Alignment ([paper]())|ICML 2020||Graph, optimal transport, DA||
-|63|Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation ([paper](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf))|NeruIPS 2020||open compound, DA|new problem|
-|62|Adversarial Domain Adaptation with Domain Mixup ([paper](https://arxiv.org/pdf/1912.01805.pdf))|IJCAI 2019||mix-ip, DA|new idea|
-|61|DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns ([paper](https://www.ijcai.org/Proceedings/2019/0587.pdf))||DA, cross-domain recommendation|classical work|
-|60|Unsupervised Domain Adaptation with Hierarchical Gradient Synchronization ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Unsupervised_Domain_Adaptation_With_Hierarchical_Gradient_Synchronization_CVPR_2020_paper.pdf))|CVPR 2020||class gropu, DA|new idea|
-|59|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021(under review)||contranstive learning, TL|new findings|
-|58|ADVERSARIALLY-TRAINED DEEP NETS TRANSFER BETTER ON IMAGE RECOGNITION ([paper](https://arxiv.org/pdf/2007.05869.pdf))|ICLR 2021(under review)||adversarial training, TL| new findings|
-|57|Unsupervised Domain Adaptation without Source Data by Casting a BAIT([paper](https://arxiv.org/pdf/2010.12427.pdf))|Arvix 2020||source-free, two classifiers|good idea|
-|56|Your Classifier can Secretly Suffice Multi-Source Domain Adaptation ([paper](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf))|NeruIPS 2020 |[code](https://sites.google.com/view/simpal)|MS, prediction agreement|simple yet effective method, new findings|
-|55|An Adversarial Domain Adaptation Network for Cross-Domain Fine-Grained Recognition([paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Wang_An_Adversarial_Domain_Adaptation_Network_for_Cross-Domain_Fine-Grained_Recognition_WACV_2020_paper.pdf))|WACV 2020|[code](https://yimuwang96.github.io/DA-Retail/index.html#1-abstract)|fine-grained, DA| new question|
-|54|Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID ([paper](https://arxiv.org/abs/2006.02713))|NIPS 2020|[code](https://github.com/yxgeee/SpCL)|contrastive learning, DA, Re-ID|contrastive learning + DA|
-|53|Measuring Information Transfer in Neural Networks ([paper](https://arxiv.org/pdf/2009.07624.pdf))|arvix 2020|||maybe useful for DA|
-|52|Open-Set Hypothesis Transfer with Semantic Consistency ([paper](https://arxiv.org/pdf/2010.00292.pdf))|arvix 2020||source free, open set||
-|51|Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling ([paper](https://arxiv.org/pdf/2002.05616.pdf))|ICML 2020||stein discrepancy|a new metric that is never used in DA|
-|50|Impact of ImageNet Model Selection on Domain Adaptation([paper](https://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_Adaptation_WACVW_2020_paper.pdf))|WACV 2020 workshop||shallow methods with different deep features|**实验结果很迷惑**|
-|49|Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks([paper](https://arxiv.org/pdf/2004.10964.pdf))|arvix 2020||pretraining|good papers|
-|48|Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.09375.pdf))|ECCV 2020|[code](https://github.com/TKKim93/APE)|SSDA, intar-domain discrepancy|**good questions**|
-|47|Measuring Information Transfer in Neural Networks([paper](https://arxiv.org/pdf/2009.07624.pdf))||||interesting paper|
-|46|Neural transfer learning for natural language processing（[paper](https://aran.library.nuigalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf?sequence=1))|2019 PDH thesis||NLP, transfer lerning|very detailed related work|
-|45|When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets([paper](https://arxiv.org/pdf/1812.05313.pdf))|||SSL, TL, experiments|many results related to multiple SSL methods can be seen in this paper|
-|44|Unsupervised Transfer Learning for Spatiotemporal Predictive Networks ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-memory-icml20.pdf))|ICML 2020||||
-|43|Estimating Generalization under Distribution Shifts via Domain-Invariant Representations ([paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf))|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|**recommend to read**|
-|42|Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|ideas from theory|**recommend to read**|
-|41|LEEP: A New Measure to Evaluate Transferability of Learned Representations ([paper](https://arxiv.org/pdf/2002.12462.pdf))|ICML 2020||new metric for transferability|easy to use for other tasks|
-|40|Label-Noise Robust Domain Adaptation|ICML2020|||the author is a rising star|
-|39|Progressive Graph Learning for Open-Set Domain Adaptation ([paper](https://arxiv.org/abs/2006.12087))|ICML 2020|[code](https://github.com/BUserName/PGL)|open set DA||
-|38|Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |**recommend to read, new trneds**|
-|37|Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||graph for DA| connenction with GCN |
-|36|Learning Deep Kernels for Non-Parametric Two-Sample Tests ([paper](https://arxiv.org/pdf/2002.09116.pdf))|ICML 2020|[code](https://github.com/fengliu90/DK-for-TST)|extend MMD to deep||
-|35| Adversarial-Learned Loss for Domain Adaptation  | AAAI 2020 |  | noisy label, adversarial learning ||
-|34|Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection| AAAI 2020 || transfer learning, anamaly detection||
-|33|Dynamic Instance Normalization for Arbitrary Style Transfer|AAAI 2020| |dynamic instance normalization||
-|32|AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||gated output, fine-tune||
-|31|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|connection with ICML 2019, the third term|
-|30|Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
-|29|Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
-|28|Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
-|27|Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision|CVPR 2020|[code](https://github.com/feipan664/IntraDA)|Entropy adversarial based||
-|26|Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective|CVPR 2020||long-tailed||
-|25|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
-|24|Stochastic Classifiers for Unsupervised Domain Adaptation|CVPR 2020||stochastic two classifiers|simialer to MCD|
-|23|Progressive Adversarial Networks for Fine-Grained Domain Adaptation|CVPR 2020||fine-grained|similar to mutil-aspect opinion analysis|
-|22|Model Adaptation: Unsupervised Domain Adaptation without Source Data|CVPR 2020|||**Recommend to read, new problems**|
-|21|Towards Inheritable Models for Open-Set Domain Adaptation|CVPR 2020|[code](https://sites.google.com/view/inheritune)|||
-|20|Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification|ECCV 2020||||
-|19|Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||||
-|18|Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
-|17|Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.07695.pdf)|ECCV 2020|[code](https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors)|SSL reguralization, Anchors|new methods, good writings|
+|84|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021||contranstive learning, TL|new findings|
+|83|Self-Supervised Policy Adaptation during Deployment ([paper](https://openreview.net/pdf?id=o_V-MjyyGV_))|ICLR 2021||RL, adaptation||
+|82|Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper](https://openreview.net/pdf?id=uXl3bZLkr3c))|ICLR 2021||test-time adaptation||
+|81|Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning ([paper](https://openreview.net/pdf?id=TgSVWXw22FQ))|ICLR 2021||voive style transfer||
+|80|Scalable Transfer Learning with Expert Models ([paper](https://openreview.net/pdf?id=23ZjUGpjcc))|ICLR 2021||multi-source||
+|79|Distance-Based Regularisation of Deep Networks for Fine-Tuning(https://openreview.net/pdf?id=IFqrg1p5Bc)|ICLR 2021||fine-tune||
+|78|Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis ([paper](https://arxiv.org/pdf/2101.00318.pdf))|AAAI 2021||UDA, application|similar idea with us|
+|77|How does the Combined Risk Affect the Performance of Unsupervised Domain Adaptation Approaches? ([paper](https://arxiv.org/pdf/2101.01104.pdf))|AAAI 2021|[code](https://github.com/zhonglii/E-MixNet)|UDA, the thidr term of theory||
+|76|Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2012.08226.pdf))|AAAI 2021||group alignment, UDA|similar idea with us|
+|75|Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2012.06995.pdf))|AAAI 2021||UDA|improvement for MCD|
+|74|A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data ([paper](https://arxiv.org/pdf/2012.05400.pdf))|AAAI 2021||source-free, Objective detection||
+|73|Incremental Adversarial Domain Adaptation for Continually Changing Environments ([paper](https://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_wulfmeier.pdf))|ICRA 2018||continual DA|new question|
+|72|ADAPTING TO CONTINUOUSLY SHIFTING DOMAINS ([paper](https://openreview.net/pdf?id=BJsBjPJvf))|ICLR 2018 workshop||continual DA|new question|
+|71|Continuous Domain Adaptation with Variational Domain-Agnostic Feature Replay ([paper](https://arxiv.org/pdf/2003.04382.pdf))|arvix 2020||continual DA|new question|
+|70|Continual Learning for Domain Adaptation in Chest X-ray Classification ([paper](https://arxiv.org/pdf/2001.05922.pdf))|MLR 2020(under review)||continual DA|new question|
+|69|Continual Domain Adaptation for Machine Reading Comprehension ([paper](https://arxiv.org/pdf/2008.10874.pdf))|CIKM 2020||continual DA|new question|
+|68|Continual Unsupervised Domain Adaptation with Adversarial Learning ([paper](https://arxiv.org/pdf/2010.09236.pdf))|arvix 2020||continual DA|new question|
+|67|Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning ([paper](https://arxiv.org/pdf/2012.04324.pdf))|arvix 2020||continual DA|new question|
+|66|Unsupervised Domain Adaptation without Source Data by Casting a BAIT ([paper](https://arxiv.org/pdf/2010.12427.pdf))|arvix 2020||source-free DA, prototype|good idea|
+|65|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation ([paper](https://arxiv.org/pdf/2009.00155v3.pdf))|arvix 2020||DA survey|good further directions|
+|64|Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation ([paper](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf))|NeruIPS 2020||open compound, DA|new problem|
+|63|Your Classifier can Secretly Suffice Multi-Source Domain Adaptation ([paper](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf))|NeruIPS 2020 |[code](https://sites.google.com/view/simpal)|MS, prediction agreement|simple yet effective method, new findings|
+|62|Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID ([paper](https://arxiv.org/abs/2006.02713))|NIPS 2020|[code](https://github.com/yxgeee/SpCL)|contrastive learning, DA, Re-ID|contrastive learning + DA|
+|61|Unsupervised Domain Adaptation without Source Data by Casting a BAIT([paper](https://arxiv.org/pdf/2010.12427.pdf))|Arvix 2020||source-free, two classifiers|good idea|
+|60|An Adversarial Domain Adaptation Network for Cross-Domain Fine-Grained Recognition([paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Wang_An_Adversarial_Domain_Adaptation_Network_for_Cross-Domain_Fine-Grained_Recognition_WACV_2020_paper.pdf))|WACV 2020|[code](https://yimuwang96.github.io/DA-Retail/index.html#1-abstract)|fine-grained, DA| new question|
+|59|Class-incremental Learning via Deep Model Consolidation ([paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Class-incremental_Learning_via_Deep_Model_Consolidation_WACV_2020_paper.pdf))|WACV 2020||||
+|58|Impact of ImageNet Model Selection on Domain Adaptation([paper](https://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_Adaptation_WACVW_2020_paper.pdf))|WACV 2020 workshop||shallow methods with different deep features|**实验结果很迷惑**|
+|57|Measuring Information Transfer in Neural Networks ([paper](https://arxiv.org/pdf/2009.07624.pdf))|arvix 2020|||maybe useful for DA|
+|56|Open-Set Hypothesis Transfer with Semantic Consistency ([paper](https://arxiv.org/pdf/2010.00292.pdf))|arvix 2020||source free, open set||
+|55|Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks([paper](https://arxiv.org/pdf/2004.10964.pdf))|arvix 2020||pretraining|good papers|
+|54|Measuring Information Transfer in Neural Networks([paper](https://arxiv.org/pdf/2009.07624.pdf))||||interesting paper|
+|53|When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets([paper](https://arxiv.org/pdf/1812.05313.pdf))|||SSL, TL, experiments|many results related to multiple SSL methods can be seen in this paper|
+|52|Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling ([paper](https://arxiv.org/pdf/2002.05616.pdf))|ICML 2020||stein discrepancy|a new metric that is never used in DA|
+|51|Graph Optimal Transport for Cross-Domain Alignment ([paper]())|ICML 2020||Graph, optimal transport, DA||
+|50|Unsupervised Transfer Learning for Spatiotemporal Predictive Networks ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-memory-icml20.pdf))|ICML 2020||||
+|49|Estimating Generalization under Distribution Shifts via Domain-Invariant Representations ([paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf))|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|**recommend to read**|
+|48|Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|ideas from theory|**recommend to read**|
+|47|LEEP: A New Measure to Evaluate Transferability of Learned Representations ([paper](https://arxiv.org/pdf/2002.12462.pdf))|ICML 2020||new metric for transferability|easy to use for other tasks|
+|46|Label-Noise Robust Domain Adaptation|ICML2020|||the author is a rising star|
+|45|Progressive Graph Learning for Open-Set Domain Adaptation ([paper](https://arxiv.org/abs/2006.12087))|ICML 2020|[code](https://github.com/BUserName/PGL)|open set DA||
+|44|Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |**recommend to read, new trneds**|
+|43|Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||graph for DA| connenction with GCN |
+|42|Learning Deep Kernels for Non-Parametric Two-Sample Tests ([paper](https://arxiv.org/pdf/2002.09116.pdf))|ICML 2020|[code](https://github.com/fengliu90/DK-for-TST)|extend MMD to deep||
+|41| Adversarial-Learned Loss for Domain Adaptation  | AAAI 2020 |  | noisy label, adversarial learning ||
+|40|Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection| AAAI 2020 || transfer learning, anamaly detection||
+|39|Dynamic Instance Normalization for Arbitrary Style Transfer|AAAI 2020| |dynamic instance normalization||
+|38|AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||gated output, fine-tune||
+|37|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|connection with ICML, the third term|
+|36|Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
+|35|Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
+|34|Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
+|33|Cross-Modal Cross-Domain Moment Alignment Network for Person Search ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf))|CVPR 2020||cross-modal, DA, Person search|new problem|
+|32|Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision|CVPR 2020|[code](https://github.com/feipan664/IntraDA)|Entropy adversarial based||
+|31|Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective|CVPR 2020||long-tailed||
+|30|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
+|29|Stochastic Classifiers for Unsupervised Domain Adaptation|CVPR 2020||stochastic two classifiers|simialer to MCD|
+|28|Progressive Adversarial Networks for Fine-Grained Domain Adaptation|CVPR 2020||fine-grained|similar to mutil-aspect opinion analysis|
+|27|Model Adaptation: Unsupervised Domain Adaptation without Source Data|CVPR 2020|||**Recommend to read, new problems**|
+|26|Towards Inheritable Models for Open-Set Domain Adaptation|CVPR 2020|[code](https://sites.google.com/view/inheritune)|||
+|25|Unsupervised Domain Adaptation with Hierarchical Gradient Synchronization ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Unsupervised_Domain_Adaptation_With_Hierarchical_Gradient_Synchronization_CVPR_2020_paper.pdf))|CVPR 2020||class gropu, DA|new idea|
+|24|Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.09375.pdf))|ECCV 2020|[code](https://github.com/TKKim93/APE)|SSDA, intar-domain discrepancy|**good questions**|
+|23|Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification|ECCV 2020||||
+|22|Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||||
+|21|Dual Mixup Regularized Learning for Adversarial Domain Adaptation ([paper](https://arxiv.org/pdf/2007.03141.pdf))|ECCV 2020||||
+|20|Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.07695.pdf)|ECCV 2020|[code](https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors)|SSL reguralization, Anchors|new methods, good writings|
+|19|Class-Incremental Domain Adaptation([paper](https://arxiv.org/pdf/2008.01389.pdf))|ECCV 2020|||new problems|
+|18|Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation ([paper](https://arxiv.org/pdf/2008.01677.pdf))|ACM MM 2020|[code](https://github.com/BIT-DA/SSAN)|||
+|17|Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition ([paper](https://arxiv.org/pdf/2008.00859.pdf))|ACM MM 2020|||similar idea with us|
 |16|Do Adversarially Robust ImageNet Models Transfer Better?|arvix 2020|[code](https://github.com/Microsoft/robust-models-transfer)|Many experiments||
 |15|Visualizing Transfer Learning|arvix 2020||interesting||
 |14|A SURVEY ON DOMAIN ADAPTATION THEORY:LEARNING BOUNDS AND THEORETICAL GUARANTEES ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arvix 2020||theory||
-|13|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
-|12|Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
-|11|Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
-|10|Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
-|9|Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification ([paper](https://arxiv.org/pdf/2007.10315.pdf))|arvix 2020|||Good ideas|
-|8|Towards Recognizing Unseen Categories in Unseen Domains ([paper](https://arxiv.org/pdf/2007.12256.pdf))|arvix 2020|||new problems|
-|7|MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.12684.pdf))|arvix 2020|||good framework|
-|6|Dynamic Knowledge Distillation for Black-box Hypothesis Transfer Learning ([paper](https://arxiv.org/pdf/2007.12355.pdf)|arvix 2020||||
-|5|Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation ([paper](https://arxiv.org/pdf/2008.01677.pdf))|ACM MM 2020|[code](https://github.com/BIT-DA/SSAN)|||
-|4|Learning from a Complementary-label Source Domain: Theory and Algorithms([paper](https://arxiv.org/pdf/2008.01454.pdf))|arvix 2020|[code](https://github.com/Yiyang98/BFUDA)||novel idea|
-|3|Class-Incremental Domain Adaptation([paper](https://arxiv.org/pdf/2008.01389.pdf))|ECCV 2020|||new problems|
-|2|Class-incremental Learning via Deep Model Consolidation ([paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Class-incremental_Learning_via_Deep_Model_Consolidation_WACV_2020_paper.pdf))|WACV 2020||||
-|1|Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition ([paper](https://arxiv.org/pdf/2008.00859.pdf))|ACM MM 2020|||similar idea with us|
-|0|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [paper](https://arxiv.org/pdf/2009.00155.pdf)|arvix 2020||Review|a good review! It contains many results of the state-of-the-art method|
+|13|Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification ([paper](https://arxiv.org/pdf/2007.10315.pdf))|arvix 2020|||Good ideas|
+|12|Towards Recognizing Unseen Categories in Unseen Domains ([paper](https://arxiv.org/pdf/2007.12256.pdf))|arvix 2020|||new problems|
+|11|MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2007.12684.pdf))|arvix 2020|||good framework|
+|10|Dynamic Knowledge Distillation for Black-box Hypothesis Transfer Learning ([paper](https://arxiv.org/pdf/2007.12355.pdf)|arvix 2020||||
+|9|Learning from a Complementary-label Source Domain: Theory and Algorithms([paper](https://arxiv.org/pdf/2008.01454.pdf))|arvix 2020|[code](https://github.com/Yiyang98/BFUDA)||novel idea|
+|8|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [paper](https://arxiv.org/pdf/2009.00155.pdf)|arvix 2020||Review|a good review! It contains many results of the state-of-the-art method|
+|7|Neural transfer learning for natural language processing（[paper](https://aran.library.nuigalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf?sequence=1))|2019 PDH thesis||NLP, transfer lerning|very detailed related work|
+|6|Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation ([paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf))|ICCV 2019|[code](https://github.com/postBG/DTA.pytorch)|Cluster assumption, DA|deal with misclassified samples|
+|5|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
+|4|Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
+|3|Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
+|2|DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns ([paper](https://www.ijcai.org/Proceedings/2019/0587.pdf))|IJCAI 2019||DA, cross-domain recommendation|classical work|
+|1|Adversarial Domain Adaptation with Domain Mixup ([paper](https://arxiv.org/pdf/1912.01805.pdf))|IJCAI 2019||mix-ip, DA|new idea|
+|0|Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
