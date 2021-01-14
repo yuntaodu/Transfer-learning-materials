@@ -174,8 +174,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |38|Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection| AAAI 2020 || transfer learning, anamaly detection||
 |37|Dynamic Instance Normalization for Arbitrary Style Transfer|AAAI 2020| |dynamic instance normalization||
 |36|AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||gated output, fine-tune||
-|35|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|connection with ICML 
-, the third term|
+|35|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|connection with ICML, the third term|
 |34|Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
 |33|Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 |32|Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
