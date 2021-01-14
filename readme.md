@@ -126,6 +126,9 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|83|Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning ([paper](https://openreview.net/pdf?id=TgSVWXw22FQ))|ICLR 2021|voive style transfer||
+|82|Scalable Transfer Learning with Expert Models ([paper](https://openreview.net/pdf?id=23ZjUGpjcc))|ICLR 2021||multi-source||
+|81|Distance-Based Regularisation of Deep Networks for Fine-Tuning(https://openreview.net/pdf?id=IFqrg1p5Bc)|ICLR 2021||fine-tune||
 |80|Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis ([paper](https://arxiv.org/pdf/2101.00318.pdf))|AAAI 2021||UDA, application|similar idea with us|
 |79|How does the Combined Risk Affect the Performance of Unsupervised Domain Adaptation Approaches? ([paper](https://arxiv.org/pdf/2101.01104.pdf))|AAAI 2021|[code](https://github.com/zhonglii/E-MixNet)|UDA, the thidr term of theory||
 |78|Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2012.08226.pdf))|AAAI 2021||group alignment, UDA|similar idea with us|
@@ -210,6 +213,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|15|Prototypical Contrastive Learning of Unsupervised Representations(https://openreview.net/pdf?id=KmykpuSrjcq)|ICLR 2021||prototype, constractive learning|maybe for UDA|
 |14|Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-Supervised Medical Image Segmentation ([paper](https://arxiv.org/abs/2007.09854))|MICCAI 2020||ssl, pseudo label||
 |13|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning ([paper](https://arxiv.org/pdf/2007.01293v1.pdf))|NIPS 2020||semi-supervised, weight smaples|it can be used in our work|
 |12|Safe semi-supervised learning: a brief introduction ([paper](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf))|||safe ssl|new concept, maybe useful for negative transfer|
