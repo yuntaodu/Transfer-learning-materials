@@ -127,6 +127,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|86|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021(under review)||contranstive learning, TL|new findings|
 |85|Self-Supervised Policy Adaptation during Deployment ([paper](https://openreview.net/pdf?id=o_V-MjyyGV_))|ICLR 2021||RL, adaptation||
 |84|Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper](https://openreview.net/pdf?id=uXl3bZLkr3c))|ICLR 2021||test-time adaptation||
 |83|Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning ([paper](https://openreview.net/pdf?id=TgSVWXw22FQ))|ICLR 2021||voive style transfer||
@@ -148,8 +149,6 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |67|Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning ([paper](https://arxiv.org/pdf/2012.04324.pdf))|arvix 2020||continual DA|new question|
 |66|Unsupervised Domain Adaptation without Source Data by Casting a BAIT ([paper](https://arxiv.org/pdf/2010.12427.pdf))|arvix 2020||source-free DA, prototype|good idea|
 |65|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation ([paper](https://arxiv.org/pdf/2009.00155v3.pdf))|arvix 2020||DA survey|good further directions|
-|64|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021(under review)||contranstive learning, TL|new findings|
-|63|ADVERSARIALLY-TRAINED DEEP NETS TRANSFER BETTER ON IMAGE RECOGNITION ([paper](https://arxiv.org/pdf/2007.05869.pdf))|ICLR 2021(under review)||adversarial training, TL| new findings|
 |62|Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation ([paper](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf))|NeruIPS 2020||open compound, DA|new problem|
 |61|Your Classifier can Secretly Suffice Multi-Source Domain Adaptation ([paper](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf))|NeruIPS 2020 |[code](https://sites.google.com/view/simpal)|MS, prediction agreement|simple yet effective method, new findings|
 |60|Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID ([paper](https://arxiv.org/abs/2006.02713))|NIPS 2020|[code](https://github.com/yxgeee/SpCL)|contrastive learning, DA, Re-ID|contrastive learning + DA|
@@ -177,7 +176,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |38|Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection| AAAI 2020 || transfer learning, anamaly detection||
 |37|Dynamic Instance Normalization for Arbitrary Style Transfer|AAAI 2020| |dynamic instance normalization||
 |36|AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning|AAAI 2020||gated output, fine-tune||
-|35|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|connection with ICML 2019, the third term|
+|35|Bi-Directional Generation for Unsupervised Domain Adaptation|AAAI 2020||differert feature extractor, different classifiers|connection with ICML 
+, the third term|
 |34|Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
 |33|Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 |32|Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
