@@ -129,7 +129,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |  --- |----  | ----  | ---- | ---- | ---- |
 |85|Self-Supervised Policy Adaptation during Deployment ([paper](https://openreview.net/pdf?id=o_V-MjyyGV_))|ICLR 2021||RL, adaptation||
 |84|Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper](https://openreview.net/pdf?id=uXl3bZLkr3c))|ICLR 2021||test-time adaptation||
-|83|Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning ([paper](https://openreview.net/pdf?id=TgSVWXw22FQ))|ICLR 2021|voive style transfer||
+|83|Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning ([paper](https://openreview.net/pdf?id=TgSVWXw22FQ))|ICLR 2021||voive style transfer||
 |82|Scalable Transfer Learning with Expert Models ([paper](https://openreview.net/pdf?id=23ZjUGpjcc))|ICLR 2021||multi-source||
 |81|Distance-Based Regularisation of Deep Networks for Fine-Tuning(https://openreview.net/pdf?id=IFqrg1p5Bc)|ICLR 2021||fine-tune||
 |80|Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis ([paper](https://arxiv.org/pdf/2101.00318.pdf))|AAAI 2021||UDA, application|similar idea with us|
