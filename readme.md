@@ -138,8 +138,6 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |78|Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2012.08226.pdf))|AAAI 2021||group alignment, UDA|similar idea with us|
 |77|Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2012.06995.pdf))|AAAI 2021||UDA|improvement for MCD|
 |76|A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data ([paper](https://arxiv.org/pdf/2012.05400.pdf))|AAAI 2021||source-free, Objective detection||
-|75|Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation ([paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf))|ICCV 2019|[code](https://github.com/postBG/DTA.pytorch)|Cluster assumption, DA|deal with misclassified samples|
-|74|Cross-Modal Cross-Domain Moment Alignment Network for Person Search ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf))|CVPR 2020||cross-modal, DA, Person search|new problem|
 |73|Incremental Adversarial Domain Adaptation for Continually Changing Environments ([paper](https://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_wulfmeier.pdf))|ICRA 2018||continual DA|new question|
 |72|ADAPTING TO CONTINUOUSLY SHIFTING DOMAINS ([paper](https://openreview.net/pdf?id=BJsBjPJvf))|ICLR 2018 workshop||continual DA|new question|
 |71|Continuous Domain Adaptation with Variational Domain-Agnostic Feature Replay ([paper](https://arxiv.org/pdf/2003.04382.pdf))|arvix 2020||continual DA|new question|
@@ -181,6 +179,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |34|Discriminative Adversarial Domain Adaptation|AAAI 2020| | discriminative information with adversarial learning||
 |33|Domain Generalization Using a Mixture of Multiple Latent Domains|AAAI 2020||||
 |32|Multi-Source Distilling Domain Adaptation|AAAI 2020||multi-source||
+|74|Cross-Modal Cross-Domain Moment Alignment Network for Person Search ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf))|CVPR 2020||cross-modal, DA, Person search|new problem|
 |31|Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision|CVPR 2020|[code](https://github.com/feipan664/IntraDA)|Entropy adversarial based||
 |30|Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective|CVPR 2020||long-tailed||
 |29|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
@@ -207,6 +206,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |8|Learning from a Complementary-label Source Domain: Theory and Algorithms([paper](https://arxiv.org/pdf/2008.01454.pdf))|arvix 2020|[code](https://github.com/Yiyang98/BFUDA)||novel idea|
 |7|A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [paper](https://arxiv.org/pdf/2009.00155.pdf)|arvix 2020||Review|a good review! It contains many results of the state-of-the-art method|
 |6|Neural transfer learning for natural language processing（[paper](https://aran.library.nuigalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf?sequence=1))|2019 PDH thesis||NLP, transfer lerning|very detailed related work|
+|75|Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation ([paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf))|ICCV 2019|[code](https://github.com/postBG/DTA.pytorch)|Cluster assumption, DA|deal with misclassified samples|
 |5|SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||dynamic routing is a general method|
 |4|Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommened  to read**|
 |3|Heterogeneous Domain Adaptation via Soft Transfer Network ([paper](https://arxiv.org/pdf/1908.10552v1.pdf))|ACM MM 2019||||
