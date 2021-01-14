@@ -173,6 +173,8 @@
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|16|Wasserstein-2 Generative Networks ([paper](https://openreview.net/pdf?id=bEoxzW_EXsa))|ICLR 2021||GAN， wassertein||
+|15|Prototypical Contrastive Learning of Unsupervised Representations(https://openreview.net/pdf?id=KmykpuSrjcq)|ICLR 2021||prototype, constractive learning|maybe for UDA|
 |14|Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-Supervised Medical Image Segmentation ([paper](https://arxiv.org/abs/2007.09854))|MICCAI 2020||ssl, pseudo label||
 |13|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning ([paper](https://arxiv.org/pdf/2007.01293v1.pdf))|NIPS 2020||semi-supervised, weight smaples|it can be used in our work|
 |12|Safe semi-supervised learning: a brief introduction ([paper](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf))|||safe ssl|new concept, maybe useful for negative transfer|
@@ -188,7 +190,9 @@
 |2|Automated Phrase Mining from Massive Text Corpora ([paper](https://arxiv.org/pdf/1702.04457.pdf))|||||
 |1|Adversarially-Trained Deep Nets Transfer Better([paper](https://arxiv.org/pdf/2007.05869.pdf)|arvix 2020|||new findings|
 |0|Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation|arvix ([paper](https://arxiv.org/pdf/2007.08801.pdf))|||same ideas with us|
+<!--
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
 |Weakly Supervised Domain Adaptation with Deep Learning ([link](http://mhug.disi.unitn.it/tutorial-acmmm16/pdf/dda-xgw.pdf))| ACM MM 2016 | Xiaogang Wang||
+-->
