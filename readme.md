@@ -127,6 +127,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|88|Unsupervised Domain Adaptation in Person re-ID via k-Reciprocal Clustering and Large-Scale Heterogeneous Environment Synthesis|AAAI 2021||UDA,re-id|similar to our idea|
+|87|Exploiting Diverse Characteristics and Adversarial Ambivalence for Domain Adaptive Segmentation ([paper](https://arxiv.org/pdf/2012.05608.pdf))|AAAI 2021||diverser, UDA||
 |86|Unsupervised Domain Adaptation of Black-Box Source Models ([paper](https://arxiv.org/pdf/2101.02839.pdf))|Arvix 2021||source-free, black|new problem|
 |85|FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION ([paper](https://arxiv.org/pdf/2101.06395.pdf))|ICLR 2021|https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration|calibation| maybe for UDA|
 |84|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021||contranstive learning, TL|new findings|
