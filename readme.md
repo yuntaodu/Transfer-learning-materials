@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2021,2,25）新增 2个 CVPR 2020 workshop and 1个 ICML 2020 workshop
 * (2021,2,7）新增 3个 DA papers
 * (2021,1,14）新增 ICLR 2021 papers
 * (2021,1,7）新增2个 DA paper
@@ -13,12 +14,13 @@ update:
 * (2020,10,6) 新增2个DA paper,3个related paper
 * (2020,10,5) 新增1个DA paper
 * (2020,10,1) 新增2个DA paper, 1个related paper
+<!--
 * (2020,9,30) 新增2个DA paper, 1个related paper
 * (2020,9,29) 新增迁移学习理论小结，OTL小结
 * (2020,9,28) 新增DA paper
 * (2020,9,6) 新增DA paper, 科研方法论相关视频
 * (2020,8,29) 新增龙老师ccdm 2020报告视频
-
+-->
 
 - [Materials for transfer learning](#materials-for-transfer-learning)
   * [入门参考](#入门参考)
@@ -250,6 +252,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |Learning from Imperfect Data ([link](https://lidchallenge.github.io/index.html))| CVPR 2020 | ||
 |Cross-Domain Few-Shot Learning (CD-FSL) Challenge ([link](https://www.learning-with-limited-labels.com/challenge))|CVPR 2020|||
 |Uncertainty and Robustness in Deep Learning Workshop ([link](https://icml.cc/Conferences/2020/Schedule?showEvent=5717))|ICML 2020|
+
+<!--
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
