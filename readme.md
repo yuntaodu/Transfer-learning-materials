@@ -244,7 +244,12 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |1|Adversarially-Trained Deep Nets Transfer Better([paper](https://arxiv.org/pdf/2007.05869.pdf)|arvix 2020|||new findings|
 |0|Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation|arvix ([paper](https://arxiv.org/pdf/2007.08801.pdf))|||same ideas with us|
 
-<!--
+## Workshop collection
+|  Title   | Conference + year| speaker |  Benenit for us |
+|  ----  | ----  | ---- | ---- |
+|Learning from Imperfect Data ([link](https://lidchallenge.github.io/index.html))| CVPR 2020 | ||
+|Cross-Domain Few-Shot Learning (CD-FSL) Challenge ([link](https://www.learning-with-limited-labels.com/challenge))|CVPR 2020|||
+|Uncertainty and Robustness in Deep Learning Workshop ([link](https://icml.cc/Conferences/2020/Schedule?showEvent=5717))|ICML 2020|
 ## tutorial_collection
 |  Title   | Conference + year| speaker |  Benenit for us |
 |  ----  | ----  | ---- | ---- |
