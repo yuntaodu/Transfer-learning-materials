@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2021,3,3) 新增1个video DA contest (Domain Adaptation for Action Recognition)
 * (2021,2,25）新增 2个 CVPR 2020 workshop and 1个 ICML 2020 workshop
 * (2021,2,7）新增 3个 DA papers
 * (2021,1,14）新增 ICLR 2021 papers
@@ -70,6 +71,7 @@ update:
 - [VisDA 2018 in ECCV 2018](https://ai.bu.edu/visda-2018/)
 - [VisDA 2019 in ICCV 2019](https://ai.bu.edu/visda-2019/)
 - [VisDA 2020 in ECCV 2020](http://ai.bu.edu/visda-2020/)
+- [Video DA](https://epic-kitchens.github.io/2021)
 
 ## CCF截稿日期
 CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了当年的CCF推荐列表的截稿时间，包括了全部的CCF会议deadline和CCF期刊的special issue, 可作为一个近似参考，详细时间及内容建议查询官网确认。
