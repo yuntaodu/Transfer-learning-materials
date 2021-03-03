@@ -71,7 +71,7 @@ update:
 - [VisDA 2018 in ECCV 2018](https://ai.bu.edu/visda-2018/)
 - [VisDA 2019 in ICCV 2019](https://ai.bu.edu/visda-2019/)
 - [VisDA 2020 in ECCV 2020](http://ai.bu.edu/visda-2020/)
-- [Video DA](https://epic-kitchens.github.io/2021)
+- [Video DA in CVPR 2021](https://epic-kitchens.github.io/2021)
 
 ## CCF截稿日期
 CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了当年的CCF推荐列表的截稿时间，包括了全部的CCF会议deadline和CCF期刊的special issue, 可作为一个近似参考，详细时间及内容建议查询官网确认。
