@@ -138,6 +138,9 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|98|FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space ([paper](https://arxiv.org/pdf/2103.06030.pdf))|CVPR 2021|[]|federate laerning + DG + Medical + segmentation||
+|97|DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images ([paper](https://arxiv.org/pdf/2104.01325.pdf))|CVPR 2021|[]|DA + Instance segmentation||
+|96|Progressive Domain Expansion Network for Single Domain Generalization ([paper](https://arxiv.org/abs/2103.16050))|CVPR 2021|[code](https://github.com/lileicv/PDEN)|sigle domain generalization|good idea|
 |95|Shuffle and Attend: Video Domain Adaptation ([paper](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Shuffle_and_Attend_Video_Domain_Adaptation.pdf))|ECCV 2020|[code](https://github.com/jinwchoi/SAVA.github.io)(not released now)|video DA||
 |94|Adversarial Bipartite Graph Learning for Video Domain Adaptation ([paper](https://arxiv.org/abs/2007.15829))|MM 2020|[code](https://github.com/Luoyadan/MM2020_ABG)|video DA||
 |93|Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation ([paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Action_Segmentation_With_Joint_Self-Supervised_Temporal_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://github.com/cmhungsteve/SSTDA)|video, UDA||
