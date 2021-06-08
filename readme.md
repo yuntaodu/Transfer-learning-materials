@@ -182,7 +182,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |106|Group-aware Label Transfer for Domain Adaptive Person Re-identification ([paper](https://arxiv.org/abs/2103.12366))|CVPR 2021|[code](https://github.com/JDAI-CV/fast-reid)|UDA,re-id,label group|similar idea with existing paper|
 |105|Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification ([paper](https://arxiv.org/abs/2012.00417))|CVPR 2021|[code](https://github.com/HeliosZhao/M3L)|Re-id, DG||
 |104|Regressive Domain Adaptation for Unsupervised Keypoint Detection ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/regressive-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transfer-Learning-Library)|DA regression|new problem|
-|103|Domain-robust VQA with diverse datasets and methods but no target labels ([paper](https://arxiv.org/pdf/2103.15974.pdf))|CVPR 2021|[paoject](https://people.cs.pitt.edu/~mzhang/domain_robust_vqa/)|VWA, UDA|new scenario|
+|103|Domain-robust VQA with diverse datasets and methods but no target labels ([paper](https://arxiv.org/pdf/2103.15974.pdf))|CVPR 2021|[project](https://people.cs.pitt.edu/~mzhang/domain_robust_vqa/)|VWA, UDA|new scenario|
 |102| Semantic Segmentation With Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization([paper](https://arxiv.org/pdf/2104.05833.pdf))|CVPR 2021|[project](https://nv-tlabs.github.io/semanticGAN/)|SSL, OODG||
 |101| Spatio-temporal Contrastive Domain Adaptation for Action Recognition()|CVPR 2021||||
 |100| Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection |CVPR 2021||||
