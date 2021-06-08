@@ -138,7 +138,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|108|Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2104.01286))|code[https://github.com/astuti/ILA-DA]|UDA, instance level||
+|108|Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2104.01286))|CVPR 2021|[code](https://github.com/astuti/ILA-DA)|UDA, instance level||
 |107|Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation ([paper](https://arxiv.org/abs/2104.00808))|CVPR 2021|[code](https://github.com/Evgeneus/Graph-Domain-Adaptaion)|MTDA, graph||
 |106|Group-aware Label Transfer for Domain Adaptive Person Re-identification ([paper](https://arxiv.org/abs/2103.12366))|CVPR 2021|[code](https://github.com/JDAI-CV/fast-reid)|UDA,re-id,label group|similar idea with existing paper|
 |105|MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection ([paper](https://arxiv.org/abs/2103.04224))|CVPR 2021||memory,UDA,object detection||
