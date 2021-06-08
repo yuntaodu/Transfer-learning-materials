@@ -1,6 +1,8 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2021,6,8) 新增ICML 2021 papers
+* (2021,6,5) 新增CVPR 2021 papers
 * (2021,3,5) 新增video DA papers
 * (2021,3,3) 新增1个video DA contest (Domain Adaptation for Action Recognition)
 * (2021,2,25）新增 2个 CVPR 2020 workshop and 1个 ICML 2020 workshop
