@@ -138,9 +138,18 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|119|
-|119| ([paper]())|CVPR 2021||||
-|119| ([paper]())|CVPR 2021||||
+||([paper]())|CVPR 2021|||
+||([paper]())|CVPR 2021|||
+||([paper]())|CVPR 2021|||
+||([paper]())|CVPR 2021|||
+||([paper]())|CVPR 2021|||
+|137|Prototypical Cross-Domain Self-Supervised Learning for Few-Shot Unsupervised Domain Adaptation([paper](https://arxiv.org/abs/2103.16765))|CVPR 2021|[project](http://xyue.io/pcs-fuda/index.html)|few-shot DA||
+|136|Visualizing Adapted Knowledge in Domain Transfer ([paper](https://arxiv.org/abs/2104.10602))|CVPR 2021|[code](https://github.com/hou-yz/DA_visualization)|visualize|good tool|
+|135|Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections([paper](https://arxiv.org/abs/2103.01134))|CVPR 2021||DG||
+|134|Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2101.10979.pdf))|CVPR 2021|
+|133| RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening ([paper](https://arxiv.org/pdf/2103.15597.pdf))|CVPR 2021|[code](https://github.com/shachoi/RobustNet)|DG||
+|132| PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training ([paper](https://arxiv.org/pdf/2105.08128.pdf))|CVPR 2021||||
+|131| Transferable Semantic Augmentation for Domain Adaptation ([paper](https://arxiv.org/pdf/2103.12562.pdf))|CVPR 2021||UDA, data augmentation||
 |130| Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04705.pdf))|CVPR 2021||||
 |129| Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04717.pdf))|CVPR 2021||MSDA||
 |128| Dynamic Transfer for Multi-Source Domain Adaptation ([paper](https://arxiv.org/pdf/2103.10583.pdf))|CVPR 2021|[code](https://github.com/liyunsheng13/DRT)|MSDA||
