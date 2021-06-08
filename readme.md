@@ -138,8 +138,20 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|98|FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space ([paper](https://arxiv.org/pdf/2103.06030.pdf))|CVPR 2021|[]|federate laerning + DG + Medical + segmentation||
-|97|DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images ([paper](https://arxiv.org/pdf/2104.01325.pdf))|CVPR 2021|[]|DA + Instance segmentation||
+|108|Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2104.01286))|code[https://github.com/astuti/ILA-DA]|UDA, instance level||
+|107|Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation ([paper](https://arxiv.org/abs/2104.00808))|CVPR 2021|[code](https://github.com/Evgeneus/Graph-Domain-Adaptaion)|MTDA, graph||
+|106|Group-aware Label Transfer for Domain Adaptive Person Re-identification ([paper](https://arxiv.org/abs/2103.12366))|CVPR 2021|[code](https://github.com/JDAI-CV/fast-reid)|UDA,re-id,label group|similar idea with existing paper|
+|105|MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection ([paper](https://arxiv.org/abs/2103.04224))|CVPR 2021||memory,UDA,object detection||
+|104|Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation ([paper]())|CVPR 2021||||
+|103|MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation([paper](https://arxiv.org/pdf/2103.05254.pdf))|CVPR 2021|[code](https://github.com/cyang-cityu/MetaCorrection)|UDA, confusion matrix, meta learning||
+|102|Divergence Optimization for Noisy Universal Domain Adaptation([paper](https://arxiv.org/abs/2104.00246))|CVPR 2021|||new porblem|
+|101|Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2104.09415.pdf))|CVPR 2021||SSDA||
+|100|Source-Free Domain Adaptation for Semantic Segmentation ([paper](https://arxiv.org/pdf/2103.16372.pdf))|CVPR 2021||SFDA+semantic segmentation||
+|99|Learning Invariant Representations and Risks for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/abs/2010.04647))|CVPR 2021||SSDA|good idea, good paper|
+|98|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2011.09230.pdf))|CVPR 2021|[code](https://github.com/NaJaeMin92/FixBi)|augmented domain|new idea|
+|97|Generalized Domain Adaptation ([paper]())|CVPR 2021||||
+<!-- |98|FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space ([paper](https://arxiv.org/pdf/2103.06030.pdf))|CVPR 2021|[]|federate laerning + DG + Medical + segmentation|| -->
+|97|DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images ([paper](https://arxiv.org/pdf/2104.01325.pdf))|CVPR 2021||DA + Instance segmentation||
 |96|Progressive Domain Expansion Network for Single Domain Generalization ([paper](https://arxiv.org/abs/2103.16050))|CVPR 2021|[code](https://github.com/lileicv/PDEN)|sigle domain generalization|good idea|
 |95|Shuffle and Attend: Video Domain Adaptation ([paper](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Shuffle_and_Attend_Video_Domain_Adaptation.pdf))|ECCV 2020|[code](https://github.com/jinwchoi/SAVA.github.io)(not released now)|video DA||
 |94|Adversarial Bipartite Graph Learning for Video Domain Adaptation ([paper](https://arxiv.org/abs/2007.15829))|MM 2020|[code](https://github.com/Luoyadan/MM2020_ABG)|video DA||
@@ -240,6 +252,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|17|Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning ([paper](https://arxiv.org/abs/2012.04324))|CVPR 2021||||
 |16|Wasserstein-2 Generative Networks ([paper](https://openreview.net/pdf?id=bEoxzW_EXsa))|ICLR 2021||GAN， wassertein||
 |15|Prototypical Contrastive Learning of Unsupervised Representations(https://openreview.net/pdf?id=KmykpuSrjcq)|ICLR 2021||prototype, constractive learning|maybe for UDA|
 |14|Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-Supervised Medical Image Segmentation ([paper](https://arxiv.org/abs/2007.09854))|MICCAI 2020||ssl, pseudo label||
