@@ -138,58 +138,58 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|104|Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation ([paper]())|CVPR 2021||||
-|98|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2011.09230.pdf))|CVPR 2021|[code](https://github.com/NaJaeMin92/FixBi)|augmented domain|new idea|
-|108|Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2104.01286))|CVPR 2021|[code](https://github.com/astuti/ILA-DA)|UDA, instance level||
-|131| Transferable Semantic Augmentation for Domain Adaptation ([paper](https://arxiv.org/pdf/2103.12562.pdf))|CVPR 2021||UDA, data augmentation||
-|144|DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation([paper](https://arxiv.org/pdf/2103.13447.pdf))|CVPR 2021||UDA||
-|146|Domain Adaptation with Auxiliary Target Domain-Oriented Classifier([paper](https://arxiv.org/abs/2007.04171))|CVPR 2021|[code](https://github.com/tim-learn/ATDOC)|UDA||
-|147|MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2103.13575.pdf))|CVPR 2021||UDA||
+|146|Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation ([paper]())|CVPR 2021||||
+|145|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2011.09230.pdf))|CVPR 2021|[code](https://github.com/NaJaeMin92/FixBi)|augmented domain|new idea|
+|144|Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2104.01286))|CVPR 2021|[code](https://github.com/astuti/ILA-DA)|UDA, instance level||
+|143| Transferable Semantic Augmentation for Domain Adaptation ([paper](https://arxiv.org/pdf/2103.12562.pdf))|CVPR 2021||UDA, data augmentation||
+|142|DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation([paper](https://arxiv.org/pdf/2103.13447.pdf))|CVPR 2021||UDA||
+|141|Domain Adaptation with Auxiliary Target Domain-Oriented Classifier([paper](https://arxiv.org/abs/2007.04171))|CVPR 2021|[code](https://github.com/tim-learn/ATDOC)|UDA||
+|140|MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2103.13575.pdf))|CVPR 2021||UDA||
 |96|Progressive Domain Expansion Network for Single Domain Generalization ([paper](https://arxiv.org/abs/2103.16050))|CVPR 2021|[code](https://github.com/lileicv/PDEN)|sigle domain generalization|good idea|
-|118|Adversarially Adaptive Normalization for Single Domain Generalization ([paper](https://arxiv.org/pdf/2106.01899.pdf))|CVPR 2021||SDG||
-|112|Uncertainty-Guided Model Generalization to Unseen Domains ([paper](https://arxiv.org/pdf/2103.07531.pdf))|CVPR 2021||DG, uncertain|new idea|
-|113|FSDR: Frequency Space Domain Randomization for Domain Generalization ([paper](https://arxiv.org/abs/2103.02370))|CVPR 2021||DG, frequency domain|new idea|
-|127| Few-Shot Image Generation via Cross-Domain Correspondence([paper](https://arxiv.org/abs/2104.06820))|CVPR 2021|[project](https://utkarshojha.github.io/few-shot-gan-adaptation/)|few-shot generation|new question|
-|132| PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training ([paper](https://arxiv.org/pdf/2105.08128.pdf))|CVPR 2021||||
-|133| RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening ([paper](https://arxiv.org/pdf/2103.15597.pdf))|CVPR 2021|[code](https://github.com/shachoi/RobustNet)|DG||
-|135|Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections([paper](https://arxiv.org/abs/2103.01134))|CVPR 2021||DG||
-|139|Adaptive Methods for Real-World Domain Generalization([paper](https://arxiv.org/abs/2103.15796))|CVPR 2021||DG||
-|140|A Fourier-Based Framework for Domain Generalization([paper](https://arxiv.org/pdf/2105.11120.pdf))|CVPR 2021||DG, fourier||
-|99|Learning Invariant Representations and Risks for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/abs/2010.04647))|CVPR 2021||SSDA|good idea, good paper|
-|101|Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2104.09415.pdf))|CVPR 2021||SSDA||
-|130| Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04705.pdf))|CVPR 2021||||
-|129| Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04717.pdf))|CVPR 2021||MSDA||
-|128| Dynamic Transfer for Multi-Source Domain Adaptation ([paper](https://arxiv.org/pdf/2103.10583.pdf))|CVPR 2021|[code](https://github.com/liyunsheng13/DRT)|MSDA||
-|107|Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation ([paper](https://arxiv.org/abs/2104.00808))|CVPR 2021|[code](https://github.com/Evgeneus/Graph-Domain-Adaptaion)|MTDA, graph||
-|117|Multi-Target Domain Adaptation With Collaborative Consistency Learning|CVPR 2021||||
-|100|Source-Free Domain Adaptation for Semantic Segmentation ([paper](https://arxiv.org/pdf/2103.16372.pdf))|CVPR 2021||SFDA+semantic segmentation||
-|125| Unsupervised Multi-Source Domain Adaptation Without Access to Source Data([paper](https://arxiv.org/pdf/2104.01845.pdf))|CVPR 2021||MS SFDA||
-|102|Divergence Optimization for Noisy Universal Domain Adaptation([paper](https://arxiv.org/abs/2104.00246))|CVPR 2021|||new porblem|
-|109|Generalized Domain Adaptation ()|CVPR 2021||||
-|115|Transferable Query Selection for Active Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/active-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transferable-Query-Selection)|ADA|new scrnario|
-|116|Dynamic Domain Adaptation for Efficient Inference ([paper](https://arxiv.org/pdf/2103.16403.pdf))|CVPR 2021||fast inference, UDA|new problem|
-|120| Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation([paper](https://arxiv.org/abs/2012.08278))|CVPR 2021||Open Compound Domain||
-|122| Open Domain Generalization with Domain-Augmented Meta-Learning([paper](https://arxiv.org/pdf/2104.03620.pdf))|CVPR 2021||open set; DG|new scrnario|
-|137|Prototypical Cross-Domain Self-Supervised Learning for Few-Shot Unsupervised Domain Adaptation([paper](https://arxiv.org/abs/2103.16765))|CVPR 2021|[project](http://xyue.io/pcs-fuda/index.html)|few-shot DA||
-|121| Reducing Domain Gap by Reducing Style Bias([paper](https://arxiv.org/abs/1910.11645))|CVPR 2021|[code](https://github.com/hyeonseobnam/sagnet)|style|for mutil tasks|
-|126| Post-Hoc Uncertainty Calibration for Domain Drift Scenarios([paper](https://arxiv.org/pdf/2012.10988.pdf))|CVPR 2021||Calibration, shift||
-|138|Conditional Bures Metric for Domain Adaptation()|CVPR 2021||||
-|145|OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations([paper](https://arxiv.org/abs/2103.13843))|CVPR 2021||||
-|136|Visualizing Adapted Knowledge in Domain Transfer ([paper](https://arxiv.org/abs/2104.10602))|CVPR 2021|[code](https://github.com/hou-yz/DA_visualization)|visualize|good tool|
-|97|DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images ([paper](https://arxiv.org/pdf/2104.01325.pdf))|CVPR 2021||DA + Instance segmentation||
-|103|MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation([paper](https://arxiv.org/pdf/2103.05254.pdf))|CVPR 2021|[code](https://github.com/cyang-cityu/MetaCorrection)|UDA, confusion matrix, meta learning||
-|105|MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection ([paper](https://arxiv.org/abs/2103.04224))|CVPR 2021||memory,UDA,object detection||
+|139|Adversarially Adaptive Normalization for Single Domain Generalization ([paper](https://arxiv.org/pdf/2106.01899.pdf))|CVPR 2021||SDG||
+|138|Uncertainty-Guided Model Generalization to Unseen Domains ([paper](https://arxiv.org/pdf/2103.07531.pdf))|CVPR 2021||DG, uncertain|new idea|
+|137|FSDR: Frequency Space Domain Randomization for Domain Generalization ([paper](https://arxiv.org/abs/2103.02370))|CVPR 2021||DG, frequency domain|new idea|
+|136| Few-Shot Image Generation via Cross-Domain Correspondence([paper](https://arxiv.org/abs/2104.06820))|CVPR 2021|[project](https://utkarshojha.github.io/few-shot-gan-adaptation/)|few-shot generation|new question|
+|135| PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training ([paper](https://arxiv.org/pdf/2105.08128.pdf))|CVPR 2021||||
+|134| RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening ([paper](https://arxiv.org/pdf/2103.15597.pdf))|CVPR 2021|[code](https://github.com/shachoi/RobustNet)|DG||
+|133|Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections([paper](https://arxiv.org/abs/2103.01134))|CVPR 2021||DG||
+|132|Adaptive Methods for Real-World Domain Generalization([paper](https://arxiv.org/abs/2103.15796))|CVPR 2021||DG||
+|131|A Fourier-Based Framework for Domain Generalization([paper](https://arxiv.org/pdf/2105.11120.pdf))|CVPR 2021||DG, fourier||
+|130|Learning Invariant Representations and Risks for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/abs/2010.04647))|CVPR 2021||SSDA|good idea, good paper|
+|129|Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/pdf/2104.09415.pdf))|CVPR 2021||SSDA||
+|128| Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04705.pdf))|CVPR 2021||||
+|127| Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04717.pdf))|CVPR 2021||MSDA||
+|126| Dynamic Transfer for Multi-Source Domain Adaptation ([paper](https://arxiv.org/pdf/2103.10583.pdf))|CVPR 2021|[code](https://github.com/liyunsheng13/DRT)|MSDA||
+|125|Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation ([paper](https://arxiv.org/abs/2104.00808))|CVPR 2021|[code](https://github.com/Evgeneus/Graph-Domain-Adaptaion)|MTDA, graph||
+|124|Multi-Target Domain Adaptation With Collaborative Consistency Learning|CVPR 2021||||
+|123|Source-Free Domain Adaptation for Semantic Segmentation ([paper](https://arxiv.org/pdf/2103.16372.pdf))|CVPR 2021||SFDA+semantic segmentation||
+|122| Unsupervised Multi-Source Domain Adaptation Without Access to Source Data([paper](https://arxiv.org/pdf/2104.01845.pdf))|CVPR 2021||MS SFDA||
+|121|Divergence Optimization for Noisy Universal Domain Adaptation([paper](https://arxiv.org/abs/2104.00246))|CVPR 2021|||new porblem|
+|120|Generalized Domain Adaptation ()|CVPR 2021||||
+|119|Transferable Query Selection for Active Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/active-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transferable-Query-Selection)|ADA|new scrnario|
+|118|Dynamic Domain Adaptation for Efficient Inference ([paper](https://arxiv.org/pdf/2103.16403.pdf))|CVPR 2021||fast inference, UDA|new problem|
+|117| Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation([paper](https://arxiv.org/abs/2012.08278))|CVPR 2021||Open Compound Domain||
+|116| Open Domain Generalization with Domain-Augmented Meta-Learning([paper](https://arxiv.org/pdf/2104.03620.pdf))|CVPR 2021||open set; DG|new scrnario|
+|115|Prototypical Cross-Domain Self-Supervised Learning for Few-Shot Unsupervised Domain Adaptation([paper](https://arxiv.org/abs/2103.16765))|CVPR 2021|[project](http://xyue.io/pcs-fuda/index.html)|few-shot DA||
+|114| Reducing Domain Gap by Reducing Style Bias([paper](https://arxiv.org/abs/1910.11645))|CVPR 2021|[code](https://github.com/hyeonseobnam/sagnet)|style|for mutil tasks|
+|113| Post-Hoc Uncertainty Calibration for Domain Drift Scenarios([paper](https://arxiv.org/pdf/2012.10988.pdf))|CVPR 2021||Calibration, shift||
+|112|Conditional Bures Metric for Domain Adaptation()|CVPR 2021||||
+|111|OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations([paper](https://arxiv.org/abs/2103.13843))|CVPR 2021||||
+|110|Visualizing Adapted Knowledge in Domain Transfer ([paper](https://arxiv.org/abs/2104.10602))|CVPR 2021|[code](https://github.com/hou-yz/DA_visualization)|visualize|good tool|
+|109|DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images ([paper](https://arxiv.org/pdf/2104.01325.pdf))|CVPR 2021||DA + Instance segmentation||
+|108|MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation([paper](https://arxiv.org/pdf/2103.05254.pdf))|CVPR 2021|[code](https://github.com/cyang-cityu/MetaCorrection)|UDA, confusion matrix, meta learning||
+|107|MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection ([paper](https://arxiv.org/abs/2103.04224))|CVPR 2021||memory,UDA,object detection||
 |106|Group-aware Label Transfer for Domain Adaptive Person Re-identification ([paper](https://arxiv.org/abs/2103.12366))|CVPR 2021|[code](https://github.com/JDAI-CV/fast-reid)|UDA,re-id,label group|similar idea with existing paper|
-|110|Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification ([paper](https://arxiv.org/abs/2012.00417))|CVPR 2021|[code](https://github.com/HeliosZhao/M3L)|Re-id, DG||
-|111|Regressive Domain Adaptation for Unsupervised Keypoint Detection ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/regressive-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transfer-Learning-Library)|DA regression|new problem|
-|114|Domain-robust VQA with diverse datasets and methods but no target labels ([paper](https://arxiv.org/pdf/2103.15974.pdf))|CVPR 2021|[paoject](https://people.cs.pitt.edu/~mzhang/domain_robust_vqa/)|VWA, UDA|new scenario|
-|119| Semantic Segmentation With Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization([paper](https://arxiv.org/pdf/2104.05833.pdf))|CVPR 2021|[project](https://nv-tlabs.github.io/semanticGAN/)|SSL, OODG||
-|123| Spatio-temporal Contrastive Domain Adaptation for Action Recognition()|CVPR 2021||||
-|124| Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection |CVPR 2021||||
-|134|Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2101.10979.pdf))|CVPR 2021|
-|141|Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval()|CVPR 2021||||
-|142|Cross-Domain Similarity Learning for Face Recognition in Unseen Domains([paper](https://arxiv.org/pdf/2103.07503.pdf))|CVPR 2021||DG, face||
-|143|Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds([paper](https://arxiv.org/pdf/2007.08488.pdf))|CVPR 2021||DG, point cloud||
+|105|Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification ([paper](https://arxiv.org/abs/2012.00417))|CVPR 2021|[code](https://github.com/HeliosZhao/M3L)|Re-id, DG||
+|104|Regressive Domain Adaptation for Unsupervised Keypoint Detection ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/regressive-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transfer-Learning-Library)|DA regression|new problem|
+|103|Domain-robust VQA with diverse datasets and methods but no target labels ([paper](https://arxiv.org/pdf/2103.15974.pdf))|CVPR 2021|[paoject](https://people.cs.pitt.edu/~mzhang/domain_robust_vqa/)|VWA, UDA|new scenario|
+|102| Semantic Segmentation With Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization([paper](https://arxiv.org/pdf/2104.05833.pdf))|CVPR 2021|[project](https://nv-tlabs.github.io/semanticGAN/)|SSL, OODG||
+|101| Spatio-temporal Contrastive Domain Adaptation for Action Recognition()|CVPR 2021||||
+|100| Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection |CVPR 2021||||
+|99|Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2101.10979.pdf))|CVPR 2021|
+|98|Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval()|CVPR 2021||||
+|97|Cross-Domain Similarity Learning for Face Recognition in Unseen Domains([paper](https://arxiv.org/pdf/2103.07503.pdf))|CVPR 2021||DG, face||
+|96|Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds([paper](https://arxiv.org/pdf/2007.08488.pdf))|CVPR 2021||DG, point cloud||
 |95|Shuffle and Attend: Video Domain Adaptation ([paper](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Shuffle_and_Attend_Video_Domain_Adaptation.pdf))|ECCV 2020|[code](https://github.com/jinwchoi/SAVA.github.io)(not released now)|video DA||
 |94|Adversarial Bipartite Graph Learning for Video Domain Adaptation ([paper](https://arxiv.org/abs/2007.15829))|MM 2020|[code](https://github.com/Luoyadan/MM2020_ABG)|video DA||
 |93|Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation ([paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Action_Segmentation_With_Joint_Self-Supervised_Temporal_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://github.com/cmhungsteve/SSTDA)|video, UDA||
