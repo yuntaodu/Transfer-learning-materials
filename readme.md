@@ -138,7 +138,27 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|113|FSDR: Frequency Space Domain Randomization for Domain Generalization (https://arxiv.org/abs/2103.02370)|CVPR 2021||DG, frequency domain|new idea|
+|119|
+|119| ([paper]())|CVPR 2021||||
+|119| ([paper]())|CVPR 2021||||
+|130| Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04705.pdf))|CVPR 2021||||
+|129| Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation([paper](https://arxiv.org/pdf/2103.04717.pdf))|CVPR 2021||MSDA||
+|128| Dynamic Transfer for Multi-Source Domain Adaptation ([paper](https://arxiv.org/pdf/2103.10583.pdf))|CVPR 2021|[code](https://github.com/liyunsheng13/DRT)|MSDA||
+|127| Few-Shot Image Generation via Cross-Domain Correspondence([paper](https://arxiv.org/abs/2104.06820))|CVPR 2021|[project](https://utkarshojha.github.io/few-shot-gan-adaptation/)|few-shot generation|new question|
+|126| Post-Hoc Uncertainty Calibration for Domain Drift Scenarios([paper](https://arxiv.org/pdf/2012.10988.pdf))|CVPR 2021||Calibration, shift||
+|125| Unsupervised Multi-Source Domain Adaptation Without Access to Source Data([paper](https://arxiv.org/pdf/2104.01845.pdf))|CVPR 2021||MS SFDA||
+|124| Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection |CVPR 2021||||
+|123| Spatio-temporal Contrastive Domain Adaptation for Action Recognition()|CVPR 2021||||
+|122| Open Domain Generalization with Domain-Augmented Meta-Learning([paper](https://arxiv.org/pdf/2104.03620.pdf))|CVPR 2021||open set; DG|new scrnario|
+|121| Reducing Domain Gap by Reducing Style Bias([paper](https://arxiv.org/abs/1910.11645))|CVPR 2021|[code](https://github.com/hyeonseobnam/sagnet)|style|for mutil tasks|
+|120| Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation([paper](https://arxiv.org/abs/2012.08278))|CVPR 2021||Open Compound Domain||
+|119| Semantic Segmentation With Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization([paper](https://arxiv.org/pdf/2104.05833.pdf))|CVPR 2021|[project](https://nv-tlabs.github.io/semanticGAN/)|SSL, OODG||
+|118|Adversarially Adaptive Normalization for Single Domain Generalization ([paper](https://arxiv.org/pdf/2106.01899.pdf))|CVPR 2021||SDG||
+|117|Multi-Target Domain Adaptation With Collaborative Consistency Learning|CVPR 2021||||
+|116|Dynamic Domain Adaptation for Efficient Inference ([paper](https://arxiv.org/pdf/2103.16403.pdf))|CVPR 2021||fast inference, UDA|new problem|
+|115|Transferable Query Selection for Active Domain Adaptation ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/active-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transferable-Query-Selection)|ADA|new scrnario|
+|114|Domain-robust VQA with diverse datasets and methods but no target labels ([paper](https://arxiv.org/pdf/2103.15974.pdf))|CVPR 2021|[paoject](https://people.cs.pitt.edu/~mzhang/domain_robust_vqa/)|VWA, UDA|new scenario|
+|113|FSDR: Frequency Space Domain Randomization for Domain Generalization ([paper](https://arxiv.org/abs/2103.02370))|CVPR 2021||DG, frequency domain|new idea|
 |112|Uncertainty-Guided Model Generalization to Unseen Domains ([paper](https://arxiv.org/pdf/2103.07531.pdf))|CVPR 2021||DG, uncertain|new idea|
 |111|Regressive Domain Adaptation for Unsupervised Keypoint Detection ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/regressive-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transfer-Learning-Library)|DA regression|new problem|
 |110|Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification ([paper](https://arxiv.org/abs/2012.00417))|CVPR 2021|[code](https://github.com/HeliosZhao/M3L)|Re-id, DG||
@@ -255,6 +275,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|18| Semi-Supervised Action Recognition with Temporal Contrastive Learning([paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf))|CVPR 2021|[project](https://cvir.github.io/TCL/)|action recognition||
 |17|Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning ([paper](https://arxiv.org/abs/2012.04324))|CVPR 2021||||
 |16|Wasserstein-2 Generative Networks ([paper](https://openreview.net/pdf?id=bEoxzW_EXsa))|ICLR 2021||GAN， wassertein||
 |15|Prototypical Contrastive Learning of Unsupervised Representations(https://openreview.net/pdf?id=KmykpuSrjcq)|ICLR 2021||prototype, constractive learning|maybe for UDA|
