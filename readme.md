@@ -138,6 +138,11 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|113|FSDR: Frequency Space Domain Randomization for Domain Generalization (https://arxiv.org/abs/2103.02370)|CVPR 2021||DG, frequency domain|new idea|
+|112|Uncertainty-Guided Model Generalization to Unseen Domains ([paper](https://arxiv.org/pdf/2103.07531.pdf))|CVPR 2021||DG, uncertain|new idea|
+|111|Regressive Domain Adaptation for Unsupervised Keypoint Detection ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/regressive-domain-adaptation-cvpr21.pdf))|CVPR 2021|[code](https://github.com/thuml/Transfer-Learning-Library)|DA regression|new problem|
+|110|Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification ([paper](https://arxiv.org/abs/2012.00417))|CVPR 2021|[code](https://github.com/HeliosZhao/M3L)|Re-id, DG||
+|109|Generalized Domain Adaptation ()|CVPR 2021||||
 |108|Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2104.01286))|CVPR 2021|[code](https://github.com/astuti/ILA-DA)|UDA, instance level||
 |107|Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation ([paper](https://arxiv.org/abs/2104.00808))|CVPR 2021|[code](https://github.com/Evgeneus/Graph-Domain-Adaptaion)|MTDA, graph||
 |106|Group-aware Label Transfer for Domain Adaptive Person Re-identification ([paper](https://arxiv.org/abs/2103.12366))|CVPR 2021|[code](https://github.com/JDAI-CV/fast-reid)|UDA,re-id,label group|similar idea with existing paper|
@@ -149,7 +154,6 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |100|Source-Free Domain Adaptation for Semantic Segmentation ([paper](https://arxiv.org/pdf/2103.16372.pdf))|CVPR 2021||SFDA+semantic segmentation||
 |99|Learning Invariant Representations and Risks for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/abs/2010.04647))|CVPR 2021||SSDA|good idea, good paper|
 |98|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2011.09230.pdf))|CVPR 2021|[code](https://github.com/NaJaeMin92/FixBi)|augmented domain|new idea|
-|97|Generalized Domain Adaptation ()|CVPR 2021||||
 |97|DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images ([paper](https://arxiv.org/pdf/2104.01325.pdf))|CVPR 2021||DA + Instance segmentation||
 |96|Progressive Domain Expansion Network for Single Domain Generalization ([paper](https://arxiv.org/abs/2103.16050))|CVPR 2021|[code](https://github.com/lileicv/PDEN)|sigle domain generalization|good idea|
 |95|Shuffle and Attend: Video Domain Adaptation ([paper](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Shuffle_and_Attend_Video_Domain_Adaptation.pdf))|ECCV 2020|[code](https://github.com/jinwchoi/SAVA.github.io)(not released now)|video DA||
