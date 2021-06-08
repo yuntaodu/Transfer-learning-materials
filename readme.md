@@ -138,11 +138,16 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-||([paper]())|CVPR 2021|||
-||([paper]())|CVPR 2021|||
-||([paper]())|CVPR 2021|||
-||([paper]())|CVPR 2021|||
-||([paper]())|CVPR 2021|||
+|147|MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2103.13575.pdf))|CVPR 2021||UDA||
+|146|Domain Adaptation with Auxiliary Target Domain-Oriented Classifier([paper](https://arxiv.org/abs/2007.04171))|CVPR 2021|[code](https://github.com/tim-learn/ATDOC)|UDA||
+|145|OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations([paper](https://arxiv.org/abs/2103.13843))|CVPR 2021||||
+|144|DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation([paper](https://arxiv.org/pdf/2103.13447.pdf))|CVPR 2021||UDA||
+|143|Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds([paper](https://arxiv.org/pdf/2007.08488.pdf))|CVPR 2021||DG, point cloud||
+|142|Cross-Domain Similarity Learning for Face Recognition in Unseen Domains([paper](https://arxiv.org/pdf/2103.07503.pdf))|CVPR 2021||DG, face||
+|141|Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval()|CVPR 2021||||
+|140|A Fourier-Based Framework for Domain Generalization([paper](https://arxiv.org/pdf/2105.11120.pdf))|CVPR 2021||DG, fourier||
+|139|Adaptive Methods for Real-World Domain Generalization([paper](https://arxiv.org/abs/2103.15796))|CVPR 2021||DG||
+|138|Conditional Bures Metric for Domain Adaptation()|CVPR 2021||||
 |137|Prototypical Cross-Domain Self-Supervised Learning for Few-Shot Unsupervised Domain Adaptation([paper](https://arxiv.org/abs/2103.16765))|CVPR 2021|[project](http://xyue.io/pcs-fuda/index.html)|few-shot DA||
 |136|Visualizing Adapted Knowledge in Domain Transfer ([paper](https://arxiv.org/abs/2104.10602))|CVPR 2021|[code](https://github.com/hou-yz/DA_visualization)|visualize|good tool|
 |135|Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections([paper](https://arxiv.org/abs/2103.01134))|CVPR 2021||DG||
