@@ -150,7 +150,6 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |99|Learning Invariant Representations and Risks for Semi-Supervised Domain Adaptation ([paper](https://arxiv.org/abs/2010.04647))|CVPR 2021||SSDA|good idea, good paper|
 |98|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2011.09230.pdf))|CVPR 2021|[code](https://github.com/NaJaeMin92/FixBi)|augmented domain|new idea|
 |97|Generalized Domain Adaptation ()|CVPR 2021||||
-<!-- |98|FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space ([paper](https://arxiv.org/pdf/2103.06030.pdf))|CVPR 2021|[]|federate laerning + DG + Medical + segmentation|| -->
 |97|DARCNN: Domain Adaptive Region-Based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images ([paper](https://arxiv.org/pdf/2104.01325.pdf))|CVPR 2021||DA + Instance segmentation||
 |96|Progressive Domain Expansion Network for Single Domain Generalization ([paper](https://arxiv.org/abs/2103.16050))|CVPR 2021|[code](https://github.com/lileicv/PDEN)|sigle domain generalization|good idea|
 |95|Shuffle and Attend: Video Domain Adaptation ([paper](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Shuffle_and_Attend_Video_Domain_Adaptation.pdf))|ECCV 2020|[code](https://github.com/jinwchoi/SAVA.github.io)(not released now)|video DA||
