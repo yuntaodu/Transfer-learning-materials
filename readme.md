@@ -1,7 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
-<!-- * (2021,6,8) 新增ICML 2021 papers -->
+* (2021,6,9) 新增17篇ICML 2021 papers
 * (2021,6,5) 新增51篇 CVPR 2021 papers
 * (2021,3,5) 新增video DA papers
 * (2021,3,3) 新增1个video DA contest (Domain Adaptation for Action Recognition)
@@ -138,6 +138,23 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|163|KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation ([paper](https://arxiv.org/pdf/2011.09757.pdf))|ICML 2021|[code](https://github.com/FengHZ/KD3A)|MSDA||
+|162|A Geometrical Approach to Learning Transferable Representation for Domain Adaptation Regression|ICML 2021||||
+|161|A Bit More Bayesian: Domain-Invariant Learning with Uncertainty ([paper](https://arxiv.org/pdf/2105.04030.pdf))|ICML 2021||DG||
+|160|Towards Domain-Agnostic Contrastive Learning ([paper](https://arxiv.org/abs/2011.04419))|ICML 2021||DA, contrastive learning||
+|159|f-Domain Adversarial Learning: Theory and Algorithms ([paper](https://openreview.net/pdf?id=WqXAKcwfZtI))|ICML 2021||UDA||
+|158|Cross-domain Imitation from Observation ([paper](https://arxiv.org/abs/2105.10037))|ICML 2021||DA,RL||
+|157|Unbalanced minibatch Optimal Transport; applications to Domain Adaptation ([paper](https://arxiv.org/pdf/2103.03606.pdf))|ICML 2021||UDA||
+|156|Domain Generalization using Causal Matching ([paper](https://arxiv.org/abs/2006.07500))|ICML 2021|[code](https://github.com/microsoft/robustdg)|DG||
+|155|LAMDA: Label Matching Deep Domain Adaptation ([paper](https://nhatptnk8912.github.io/LAMBDA.pdf))|ICML 2021||UDA||
+|154|Sequential Domain Adaptation by Synthesizing Distributionally Robust Experts ([paper](https://arxiv.org/abs/2106.00322))|ICML 2021|||new problem|
+|153|Learn-to-Share: A Hardware-friendly Transfer Learning Framework Exploiting Computation and Parameter Sharing|ICML 2021|||new problem|
+|152|Zoo-Tuning: Adaptive Transfer from A Zoo of Models|ICML 2021||fine-tune||
+|151|CARTL: Cooperative Adversarially-Robust Transfer Learning |ICML 2021||||
+|150|Transfer-Based Semantic Anomaly Detection|ICML 2021||||
+|149|Uncovering the Connections Between Adversarial Transferability and Knowledge Transferability|ICML 2021||||
+|148|Function Contrastive Learning of Transferable Meta-Representations ([paper](https://arxiv.org/abs/2010.07093))|ICML 2021||||
+|147|Sharing Less is More: Lifelong Learning in Deep Networks with Selective Layer Transfer ([paper](https://openreview.net/forum?id=G8NSCGPEJM))|ICML 2021||||
 |146|Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation ([paper]())|CVPR 2021||||
 |145|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation([paper](https://arxiv.org/pdf/2011.09230.pdf))|CVPR 2021|[code](https://github.com/NaJaeMin92/FixBi)|augmented domain|new idea|
 |144|Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2104.01286))|CVPR 2021|[code](https://github.com/astuti/ILA-DA)|UDA, instance level||
