@@ -217,7 +217,20 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |88|Unsupervised Domain Adaptation in Person re-ID via k-Reciprocal Clustering and Large-Scale Heterogeneous Environment Synthesis|AAAI 2021||UDA,re-id|similar to our idea|
 |87|Exploiting Diverse Characteristics and Adversarial Ambivalence for Domain Adaptive Segmentation ([paper](https://arxiv.org/pdf/2012.05608.pdf))|AAAI 2021||diverser, UDA||
 |86|Unsupervised Domain Adaptation of Black-Box Source Models ([paper](https://arxiv.org/pdf/2101.02839.pdf))|Arvix 2021||source-free, black|new problem|
-|85|FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION ([paper](https://arxiv.org/pdf/2101.06395.pdf))|ICLR 2021|[code](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration)|calibation| maybe for UDA|
+||Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency ([paper](https://openreview.net/pdf?id=QIRlze3I6hX))|ICLR 2021|[project](https://sjtuzq.github.io/cycle_dynamics.html)|RL, DA, oral||
+||Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers (https://openreview.net/pdf?id=eqBwg3AcIAK)|ICLR 2021||RL, DA, poster||
+||Domain-Robust Visual Imitation Learning with Mutual Information Constraints (https://openreview.net/pdf?id=QubpWYfdNry)||RL, DA, poster||
+||Domain Generalization with MixStyle ([paper](https://openreview.net/pdf?id=6xHJ37MVxxp))|ICLR 2021|[code](https://github.com/KaiyangZhou/Dassl.pytorch)|DG, poster||
+||In Search of Lost Domain Generalization ([paper](https://openreview.net/pdf?id=lQdXeXDoWtI))|ICLR 2021|[code](https://github.com/facebookresearch/DomainBed/)|DG, benchmark, poster||
+||MetaNorm: Learning to Normalize Few-Shot Batches Across Domains ([paper](https://openreview.net/pdf?id=9z_dNsC4B5t))|ICLR 2021|[code](https://github.com/YDU-AI/MetaNorm)|DG, few-shot, poster||
+||What Makes Instance Discrimination Good for Transfer Learning? ([paper](https://openreview.net/pdf?id=23ZjUGpjcc))|ICLR 2021|[project](http://nxzhao.com/projects/good_transfer/)|pre-train, poster||
+||Adversarially-Trained Deep Nets Transfer Better: Illustration on Image Classification ([paper](https://openreview.net/pdf?id=ijJZbomCJIm))|ICLR 2021||pre-train, poster||
+||A Unified Approach to Interpreting and Boosting Adversarial Transferability ([paper](https://openreview.net/pdf?id=X76iqnUbBjz))|ICLR 2021|[code](https://github.com/xherdan76/A-Unified-Approach-to-Interpreting-and-Boosting-Adversarial-Transferability)|Adversarial Transferability, poster||
+||Self-training For Few-shot Transfer Across Extreme Task Differences ([paper](https://openreview.net/pdf?id=O3Y56aqpChA))|ICLR 2021|[code](https://github.com/cpphoo/STARTUP)|few shot, DA, oral||
+||Scalable Transfer Learning with Expert Models ([paper](https://openreview.net/pdf?id=23ZjUGpjcc))|ICLR 2021||fine-tune, poster||
+||Integrating Categorical Semantics into Unsupervised Domain Translation ([paper](https://openreview.net/pdf?id=IMPA6MndSXU))|ICLR 2021|[code](https://github.com/lavoiems/Cats-UDT)|Domain translation, poster||
+||Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning ([paper](https://openreview.net/pdf?id=TgSVWXw22FQ))|ICLR 2021||Style transfer, poster||
+||Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper])|ICLR 2021|[code](https://github.com/DequanWang/tent)|test-time adaptation|new problem|
 |84|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021||contranstive learning, TL|new findings|
 |83|Self-Supervised Policy Adaptation during Deployment ([paper](https://openreview.net/pdf?id=o_V-MjyyGV_))|ICLR 2021||RL, adaptation||
 |82|Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper](https://openreview.net/pdf?id=uXl3bZLkr3c))|ICLR 2021||test-time adaptation||
@@ -306,6 +319,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|19|FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION ([paper](https://arxiv.org/pdf/2101.06395.pdf))|ICLR 2021|[code](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration)|calibation| maybe for UDA|
 |18| Semi-Supervised Action Recognition with Temporal Contrastive Learning([paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf))|CVPR 2021|[project](https://cvir.github.io/TCL/)|action recognition||
 |17|Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning ([paper](https://arxiv.org/abs/2012.04324))|CVPR 2021||||
 |16|Wasserstein-2 Generative Networks ([paper](https://openreview.net/pdf?id=bEoxzW_EXsa))|ICLR 2021||GAN， wassertein||
