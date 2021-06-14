@@ -218,7 +218,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |87|Exploiting Diverse Characteristics and Adversarial Ambivalence for Domain Adaptive Segmentation ([paper](https://arxiv.org/pdf/2012.05608.pdf))|AAAI 2021||diverser, UDA||
 |86|Unsupervised Domain Adaptation of Black-Box Source Models ([paper](https://arxiv.org/pdf/2101.02839.pdf))|Arvix 2021||source-free, black|new problem|
 ||Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency ([paper](https://openreview.net/pdf?id=QIRlze3I6hX))|ICLR 2021|[project](https://sjtuzq.github.io/cycle_dynamics.html)|RL, DA, oral||
-||Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers (https://openreview.net/pdf?id=eqBwg3AcIAK)|ICLR 2021||RL, DA, poster||
+||Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers ([paper](https://openreview.net/pdf?id=eqBwg3AcIAK))|ICLR 2021||RL, DA, poster||
 ||Domain-Robust Visual Imitation Learning with Mutual Information Constraints (https://openreview.net/pdf?id=QubpWYfdNry)||RL, DA, poster||
 ||Domain Generalization with MixStyle ([paper](https://openreview.net/pdf?id=6xHJ37MVxxp))|ICLR 2021|[code](https://github.com/KaiyangZhou/Dassl.pytorch)|DG, poster||
 ||In Search of Lost Domain Generalization ([paper](https://openreview.net/pdf?id=lQdXeXDoWtI))|ICLR 2021|[code](https://github.com/facebookresearch/DomainBed/)|DG, benchmark, poster||
@@ -230,7 +230,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ||Scalable Transfer Learning with Expert Models ([paper](https://openreview.net/pdf?id=23ZjUGpjcc))|ICLR 2021||fine-tune, poster||
 ||Integrating Categorical Semantics into Unsupervised Domain Translation ([paper](https://openreview.net/pdf?id=IMPA6MndSXU))|ICLR 2021|[code](https://github.com/lavoiems/Cats-UDT)|Domain translation, poster||
 ||Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning ([paper](https://openreview.net/pdf?id=TgSVWXw22FQ))|ICLR 2021||Style transfer, poster||
-||Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper])|ICLR 2021|[code](https://github.com/DequanWang/tent)|test-time adaptation|new problem|
+||Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper](https://openreview.net/pdf?id=uXl3bZLkr3c))|ICLR 2021|[code](https://github.com/DequanWang/tent)|test-time adaptation|new problem|
 |84|WHAT MAKES INSTANCE DISCRIMINATION GOOD FOR TRANSFER LEARNING? ([paper](https://arxiv.org/pdf/2006.06606.pdf))|ICLR 2021||contranstive learning, TL|new findings|
 |83|Self-Supervised Policy Adaptation during Deployment ([paper](https://openreview.net/pdf?id=o_V-MjyyGV_))|ICLR 2021||RL, adaptation||
 |82|Tent: Fully Test-Time Adaptation by Entropy Minimization ([paper](https://openreview.net/pdf?id=uXl3bZLkr3c))|ICLR 2021||test-time adaptation||
