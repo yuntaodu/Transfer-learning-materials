@@ -1,7 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
-* (2021,6,18) 新增14篇IJCAI 2021 papers
+* (2021,6,18) 新增14篇IJCAI 2021 papers、两个Presentation(valse, eccv 2020 tutorial)
 * (2021,6,14) 更新14篇ICLR 2021 papers
 * (2021,6,9) 新增17篇ICML 2021 papers
 * (2021,6,5) 新增51篇 CVPR 2021 papers
