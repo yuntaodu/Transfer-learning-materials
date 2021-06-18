@@ -2,7 +2,7 @@
 
 update:
 * (2021,6,18) 新增14篇IJCAI 2021 papers
-* (2021,6,14) 新增14篇ICLR 2021 papers
+* (2021,6,14) 更新14篇ICLR 2021 papers
 * (2021,6,9) 新增17篇ICML 2021 papers
 * (2021,6,5) 新增51篇 CVPR 2021 papers
 * (2021,3,5) 新增video DA papers
