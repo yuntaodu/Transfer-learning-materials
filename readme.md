@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2021,6,18) 新增14篇IJCAI 2021 papers
 * (2021,6,14) 新增14篇ICLR 2021 papers
 * (2021,6,9) 新增17篇ICML 2021 papers
 * (2021,6,5) 新增51篇 CVPR 2021 papers
@@ -139,6 +140,20 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|184|TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport|IJCAI 2021||UDA||
+|183|Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference|IJCAI 2021||DG|new problem|
+|182|Deep Reinforcement Learning Boosted Partial Domain Adaptation|IJCAI 2021||Partial DA|
+|181|Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation|IJCAI 2021||source-free, prototype||
+|180|Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation| IJCAI 2021||ts, da||
+|179|Graph Consistency Based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification ([paper](https://arxiv.org/abs/2105.04776))|IJCAI 2021||UDA, re-id||
+|178|Cross-Domain Few-Shot Classification via Adversarial Task Augmentation ([paper](https://arxiv.org/pdf/2104.14385.pdf))|IJCAI 2021|[code](https://github.com/Haoqing-Wang/CDFSL-ATA)|cross-domain few-shot||
+|177|Dual Reweighting Domain Generalization for Face Presentation Attack Detection|IJCAI 2021||DG, face attack||
+|176| Tool- and Domain-Agnostic Parameterization of Style Transfer Effects Leveraging Pretrained Perceptual Metric ([paper](https://arxiv.org/pdf/2105.09207.pdf))|IJCAI 2021||style transfer||
+|176|DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation ([paper](https://arxiv.org/pdf/2105.03300.pdf))|IJCAI 2021||cross-domain Recomm||
+|175| Towards Robust Model Reuse in the Presence of Latent Domains|IJCAI 2021||Model reuse||
+|174|Differentially Private Correlation Alignment for Domain Adaptation|IJCAI 2021||UDA||
+|173|Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks|IJCAI 2021||GNN||
+|172|Regularising Knowledge Transfer by Meta Functional Learning|IJCAI 2021||Knowledge transfer||
 |171|KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation ([paper](https://arxiv.org/pdf/2011.09757.pdf))|ICML 2021|[code](https://github.com/FengHZ/KD3A)|MSDA||
 |170|A Geometrical Approach to Learning Transferable Representation for Domain Adaptation Regression|ICML 2021||||
 |169|A Bit More Bayesian: Domain-Invariant Learning with Uncertainty ([paper](https://arxiv.org/pdf/2105.04030.pdf))|ICML 2021||DG||
