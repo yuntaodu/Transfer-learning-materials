@@ -127,14 +127,15 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 -->
 	
 ## Presentation
+   - ECCV 2020 tutorial Domain Adaptation for Visual Applications [视频](https://europe.naverlabs.com/eccv-2020-domain-adaptation-tutorial/)
+   - VALSE Webinar 20210609-15 总第241期 领域自适应方法与进展 [报告1](https://www.bilibili.com/video/BV1uB4y1M7ZP), [报告2](https://www.bilibili.com/video/BV1M64y1d7yr), [panel](https://www.bilibili.com/video/BV1m44y167wy), 
    - 龙明盛 CCDM 2020 [视频](https://www.bilibili.com/video/BV1ZK4y1Y77u?from=search&seid=13208916633723128421) , [ppt](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transfer-learning-theories-and-algorithms-ccdm20.pdf)
    - VALSE Webinar 20-19期 迁移学习 (个人非常推荐, 对新手不友好，对进阶有帮助，质量很高!) [视频](https://www.bilibili.com/video/BV19v411q7jk), [报告简介](https://mp.weixin.qq.com/s/HaLUIlDEP4ThdfSgM5-Gog)
    - 龙明盛_NJU2019 Transfer Learning Theories and Algorithms [ppt](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_NJU2019_Transfer%20Learning%20Theories%20and%20Algorithms)
    - 龙明盛 Valse 2019 Transfer Learning_From Algorithms to Theories and Back   [视频](https://www.iqiyi.com/v_19rsjxgml0.html) [ppt](https://github.com/dududuAA/TL_group/tree/master/presentation/%E9%BE%99%E6%98%8E%E7%9B%9B_valse2019_Transfer%20Learning_From%20Algorithms%20to%20Theories%20and%20Back)
-   - 游凯超 智源论坛 2019 领域适配前沿研究--场景、方法与模型选择 [视频](https://www.bilibili.com/video/BV15J411W7KX?from=search&seid=8739501206493640960),[ppt](https://youkaichao.github.io/files/icml2019/923.pdf)
-   - 王玫   2019 deep_domain_adaptation [视频](https://www.bilibili.com/video/av39436440/), [ppt](https://github.com/dududuAA/Transfer-learning-materials/blob/master/presentation/%E7%8E%8B%E7%8E%AB_2019_deep_domain_adaptation/deep%20domain%20adaptation%20tutorial-small.pdf)
    - 吴恩达 NIPS 2016  Nuts and bolts of building AI applications using Deep Learning  [视频(需科学上网)](https://www.youtube.com/watch?v=wjqaz6m42wU),[ppt](https://github.com/dududuAA/Transfer-learning-materials/blob/master/presentation/%E5%90%B4%E6%81%A9%E8%BE%BE_NIPS2016_Nuts%20and%20bolts%20of%20building%20AI%20applications%20using%20Deep%20Learning/Slides.pdf)
-   
+   - 游凯超 智源论坛 2019 领域适配前沿研究--场景、方法与模型选择 [视频](https://www.bilibili.com/video/BV15J411W7KX?from=search&seid=8739501206493640960),[ppt](https://youkaichao.github.io/files/icml2019/923.pdf)
+   - 王玫   2019 deep_domain_adaptation [视频](https://www.bilibili.com/video/av39436440/), [ppt](https://github.com/dududuAA/Transfer-learning-materials/blob/master/presentation/%E7%8E%8B%E7%8E%AB_2019_deep_domain_adaptation/deep%20domain%20adaptation%20tutorial-small.pdf)   
 
 ## novel_papers
 ### 1) novel_papers on transfer learning
