@@ -336,7 +336,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |18| Semi-Supervised Action Recognition with Temporal Contrastive Learning([paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf))|CVPR 2021|[project](https://cvir.github.io/TCL/)|action recognition||
 |17|Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning ([paper](https://arxiv.org/abs/2012.04324))|CVPR 2021||||
 |16|Wasserstein-2 Generative Networks ([paper](https://openreview.net/pdf?id=bEoxzW_EXsa))|ICLR 2021||GAN， wassertein||
-|15|Prototypical Contrastive Learning of Unsupervised Representations(https://openreview.net/pdf?id=KmykpuSrjcq)|ICLR 2021||prototype, constractive learning|maybe for UDA|
+|15|Prototypical Contrastive Learning of Unsupervised Representations([paper](https://openreview.net/pdf?id=KmykpuSrjcq))|ICLR 2021||prototype, constractive learning|maybe for UDA|
 |14|Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-Supervised Medical Image Segmentation ([paper](https://arxiv.org/abs/2007.09854))|MICCAI 2020||ssl, pseudo label||
 |13|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning ([paper](https://arxiv.org/pdf/2007.01293v1.pdf))|NIPS 2020||semi-supervised, weight smaples|it can be used in our work|
 |12|Safe semi-supervised learning: a brief introduction ([paper](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf))|||safe ssl|new concept, maybe useful for negative transfer|
