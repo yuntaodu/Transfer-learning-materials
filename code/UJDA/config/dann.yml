@@ -1,0 +1,16 @@
+init_lr_c_net : 0.004
+init_lr_classifier : 0.004
+
+batch_size : 16
+
+optim:
+  type: sgd
+  params:
+      lr: 0.004
+      momentum: 0.9
+      weight_decay: 0.0005
+
+lr_scheduler:
+  type: inv
+  gamma: 0.001
+  decay_rate: 0.75
