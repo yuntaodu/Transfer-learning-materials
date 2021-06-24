@@ -103,23 +103,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 - [Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
 - [Topic: Semi-supervised](http://arxitics.com/search?q=semi-supervised&sort=updated)
 
-<!--
-## 科研方法论
-- 督工 认知模型 [链接](https://www.bilibili.com/video/BV1P7411Y7bG)
-- 沈向洋 you are what you read [链接](https://www.bilibili.com/s/video/BV1df4y1m74k)
-- 沈向洋 how to read papers 7.18[(私有)](https://box.nju.edu.cn/f/5f40ba30e6a8476eacda/), [文字版](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
-- 王井东 how to read papers 7.21[(私有, 密码同上)](https://box.nju.edu.cn/f/d37de48554044bbb9f8a/)
-- 袁路   how to read papers 7.24[(私有，密码同上)](https://box.nju.edu.cn/f/ae8c7d900b384a88b008/)
-- 陈栋   how to read papers 7.27[(私有，密码同上)](https://box.nju.edu.cn/f/6ab5d03878c141de8aeb/)
-- 杨蛟龙 how to read papers 7.30[(私有，密码同上)](https://box.nju.edu.cn/f/fd124ffa1b304fdfaa52/)
-- 胡瀚   how to read papers 8.2[(私有，密码同上)](https://box.nju.edu.cn/f/c3a79daf9b6e47539f24/)
-- 陈东东 how to read papers 8.5[(私有，密码同上)](https://box.nju.edu.cn/f/5cb5912b8736494486d0/)
-- 秦涛   do high-quality research [(私有，密码同上)](https://box.nju.edu.cn/f/b77b568e329345cda36b/)
--->
-<!--
-## 好文整理
-- 杨强， 从 0 到 1，迁移学习如何登上今日高峰？[链接](https://mp.weixin.qq.com/s/eGHi88TmG-9cYSMz592_yw)
--->
+
    	
 ## 会议视频
 - [VALSE 2020 7.31-8.5](http://valser.org/2020/#/)
