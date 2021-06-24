@@ -34,7 +34,7 @@ update:
   * [CCF截稿日期](#CCF截稿日期)
   * [Excellent Scholars](#excellent-scholars)
   * [新论文追踪](#新论文追踪)
-  * [科研方法论](#科研方法论)
+  * [会议视频](#会议视频)
   * [Presentation](#presentation)
   * [novel papers](#novel_papers)
   * [Other githubs](#other-githubs)
