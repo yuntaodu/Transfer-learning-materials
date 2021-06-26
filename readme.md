@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2021,6,26) 新增14篇VisDA 2021竞赛
 * (2021,6,18) 新增14篇IJCAI 2021 papers、两个Presentation(valse, eccv 2020 tutorial)
 * (2021,6,14) 更新14篇ICLR 2021 papers
 * (2021,6,9) 新增17篇ICML 2021 papers
@@ -15,12 +16,12 @@ update:
 * (2020,12,10）新增1个DA paper
 * (2020,12,5）新增4个DA paper
 * (2020,11,25）新增5个DA paper 
+<!--
 * (2020,11,3）新增1个DA paper, 新增1个related paper
 * (2020,10,30) 新增1个related paper
 * (2020,10,6) 新增2个DA paper,3个related paper
 * (2020,10,5) 新增1个DA paper
 * (2020,10,1) 新增2个DA paper, 1个related paper
-<!--
 * (2020,9,30) 新增2个DA paper, 1个related paper
 * (2020,9,29) 新增迁移学习理论小结，OTL小结
 * (2020,9,28) 新增DA paper
