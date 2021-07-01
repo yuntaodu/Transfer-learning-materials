@@ -128,7 +128,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|185|cross-domain error minimization for unsupervised domain adaptation ([paper][https://arxiv.org/abs/2106.15057])|DASFAA 2021|[code](https://github.com/yuntaodu/CDEM)|cross-domain error, UDA| new method from new theory|
+|185|cross-domain error minimization for unsupervised domain adaptation ([paper](https://arxiv.org/abs/2106.15057))|DASFAA 2021|[code](https://github.com/yuntaodu/CDEM)|cross-domain error, UDA| **new method from new theory**|
 |184|TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport|IJCAI 2021||UDA||
 |183|Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference|IJCAI 2021||DG|new problem|
 |182|Deep Reinforcement Learning Boosted Partial Domain Adaptation|IJCAI 2021||Partial DA|
