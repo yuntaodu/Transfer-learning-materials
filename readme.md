@@ -124,8 +124,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
    - 游凯超 智源论坛 2019 领域适配前沿研究--场景、方法与模型选择 [视频](https://www.bilibili.com/video/BV15J411W7KX?from=search&seid=8739501206493640960),[ppt](https://youkaichao.github.io/files/icml2019/923.pdf)
    - 王玫   2019 deep_domain_adaptation [视频](https://www.bilibili.com/video/av39436440/), [ppt](https://github.com/dududuAA/Transfer-learning-materials/blob/master/presentation/%E7%8E%8B%E7%8E%AB_2019_deep_domain_adaptation/deep%20domain%20adaptation%20tutorial-small.pdf)   
 
-## novel_papers
-### 1) novel_papers on transfer learning
+## Novel_papers
+### 1) Novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
 |185|cross-domain error minimization for unsupervised domain adaptation ([paper](https://arxiv.org/abs/2106.15057))|DASFAA 2021|[code](https://github.com/yuntaodu/CDEM)|cross-domain error, UDA| **new method from new theory**|
@@ -317,7 +317,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |2|Incremental Adversarial Domain Adaptation for Continually Changing Environments ([paper](https://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_wulfmeier.pdf))|ICRA 2018||continual DA|new question|
 |1|ADAPTING TO CONTINUOUSLY SHIFTING DOMAINS ([paper](https://openreview.net/pdf?id=BJsBjPJvf))|ICLR 2018 workshop||continual DA|new question|
 |0|Information-Theoretical Learning of Discriminative Clusters for Unsupervised Domain Adaptation ([paper](https://icml.cc/2012/papers/566.pdf))|ICML 2012||||
-### 2) novel_papers on related fileds
+### 2) Novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
 |19|FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION ([paper](https://arxiv.org/pdf/2101.06395.pdf))|ICLR 2021|[code](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration)|calibation| maybe for UDA|
