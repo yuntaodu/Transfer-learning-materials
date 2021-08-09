@@ -129,8 +129,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) Novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|186|Matching Distributions between Model and Data: Cross-domain
-Knowledge Distillation for Unsupervised Domain Adaptation ([paper](https://aclanthology.org/2021.acl-long.421.pdf))|ACL 2021||SFDA|good paper, recommended|
+|186|Matching Distributions between Model and Data: Cross-domain Knowledge Distillation for Unsupervised Domain Adaptation ([paper](https://aclanthology.org/2021.acl-long.421.pdf))|ACL 2021||SFDA|good paper, recommended|
 |185|cross-domain error minimization for unsupervised domain adaptation ([paper](https://arxiv.org/abs/2106.15057))|DASFAA 2021|[code](https://github.com/yuntaodu/CDEM)|cross-domain error, UDA| **new method from new theory**|
 |184|TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport|IJCAI 2021||UDA||
 |183|Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference|IJCAI 2021||DG|new problem|
