@@ -322,6 +322,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) Novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|20|OpenWGL: Open-World Graph Learning ([paper](https://par.nsf.gov/servlets/purl/10199471))|ICDM 2020| |open node classification|best student paper|
 |19|FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION ([paper](https://arxiv.org/pdf/2101.06395.pdf))|ICLR 2021|[code](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration)|calibation| maybe for UDA|
 |18| Semi-Supervised Action Recognition with Temporal Contrastive Learning([paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf))|CVPR 2021|[project](https://cvir.github.io/TCL/)|action recognition||
 |17|Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning ([paper](https://arxiv.org/abs/2012.04324))|CVPR 2021||||
