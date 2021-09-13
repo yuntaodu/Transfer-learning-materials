@@ -138,8 +138,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 |206| Domain Generalization via Gradient Surgery ([paper](https://arxiv.org/abs/2108.01621))|ICCV 2021||DG||
 |205| Adversarial Unsupervised Domain Adaptation with Conditional and Label Shift: Infer, Align and Iterate ([paper](https://arxiv.org/abs/2107.13469))|ICCV 2021||UDA||
 |204| Recursively Conditional Gaussian for Ordinal Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2107.13467))|ICCV 2021||UDA||
-|203] Improve Unsupervised Pretraining for Few-label Transfer ([paper](https://arxiv.org/abs/2107.12369))|ICCV 2021||pre-train||
-|202| Generalized Source-free Domain Adaptation ([ppaer](https://arxiv.org/pdf/2108.01614.pdf))|ICCV 2021|[homepage](https://sites.google.com/view/g-sfda/g-sfda)|GSFDA||
+|203| Improve Unsupervised Pretraining for Few-label Transfer ([paper](https://arxiv.org/abs/2107.12369))|ICCV 2021||pre-train||
+|202| Generalized Source-free Domain Adaptation ([paper](https://arxiv.org/pdf/2108.01614.pdf))|ICCV 2021|[homepage](https://sites.google.com/view/g-sfda/g-sfda)|GSFDA||
 |201| Seasonal Contrast: Unsupervised Pre-Training from Uncurated Remote Sensing Data ([paper](https://arxiv.org/abs/2103.16607))|ICCV 2021|[code](https://github.com/ElementAI/seasonal-contrast)|pre-train||
 |200|Calibrated prediction in and out-of-domain for state-of-the-art saliency modeling ([paper](https://arxiv.org/abs/2105.12441))|ICCV 2021||||
 |199| On Generating Transferable Targeted Perturbations ([paper](https://arxiv.org/abs/2103.14641))|ICCV 2021 | [code](https://github.com/Muzammal-Naseer/TTP)|||
