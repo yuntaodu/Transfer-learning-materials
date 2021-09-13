@@ -1,6 +1,7 @@
 # Materials for transfer learning [中文版](https://github.com/dududuAA/Transfer-learning-materials/blob/master/readme.md), [English version](https://github.com/dududuAA/Transfer-learning-materials/blob/master/Readme_English.md) 
 
 update:
+* (2021,9,13) 新增25篇ICCV 2021 paper
 * (2021,7,1) 新增1篇ACL 2021 paper (recommended)
 * (2021,7,1) 新增1篇DASFAA 2021 paper
 * (2021,6,26) 新增14篇VisDA 2021竞赛
@@ -129,6 +130,31 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 1) Novel_papers on transfer learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|211| Learning to Diversify for Single Domain Generalization ([paper](https://arxiv.org/abs/2108.11726))|ICCV 2021||Single DG||
+|210| PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation ([paper](https://arxiv.org/abs/2108.07142))|ICCV 2021|[code](https://github.com/sheepooo/PIT-Position-Invariant-Transform)|UDA|good paper|
+|209| Semantic Concentration for Domain Adaptation ([paper](https://arxiv.org/abs/2108.05720))|ICCV 2021||UDA||
+|208| Zero-Shot Domain Adaptation with a Physics Prior ([paper](https://arxiv.org/abs/2108.05137))|ICCV 2021 | [code](https://github.com/Attila94/CIConv)|zero-shot DA|
+|207| BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation ([paper](https://arxiv.org/abs/2108.03267))|ICCV 2021||UDA, Scene Segmentation||
+|206| Domain Generalization via Gradient Surgery ([paper](https://arxiv.org/abs/2108.01621))|ICCV 2021||DG||
+|205| Adversarial Unsupervised Domain Adaptation with Conditional and Label Shift: Infer, Align and Iterate ([paper](https://arxiv.org/abs/2107.13469))|ICCV 2021||UDA||
+|204| Recursively Conditional Gaussian for Ordinal Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2107.13467))|ICCV 2021||UDA||
+|203] Improve Unsupervised Pretraining for Few-label Transfer ([paper](https://arxiv.org/abs/2107.12369))|ICCV 2021||pre-train||
+|202| Generalized Source-free Domain Adaptation ([ppaer](https://arxiv.org/pdf/2108.01614.pdf))|ICCV 2021|[homepage](https://sites.google.com/view/g-sfda/g-sfda)|GSFDA||
+|201| Seasonal Contrast: Unsupervised Pre-Training from Uncurated Remote Sensing Data ([paper](https://arxiv.org/abs/2103.16607))|ICCV 2021|[code](https://github.com/ElementAI/seasonal-contrast)|pre-train||
+|200|Calibrated prediction in and out-of-domain for state-of-the-art saliency modeling ([paper](https://arxiv.org/abs/2105.12441))|ICCV 2021||||
+|199| On Generating Transferable Targeted Perturbations ([paper](https://arxiv.org/abs/2103.14641))|ICCV 2021 | [code](https://github.com/Muzammal-Naseer/TTP)|||
+|198|Boosting the Generalization Capability in Cross-Domain Few-shot Learning via Noise-enhanced Supervised Autoencoder ([paper](https://arxiv.org/pdf/2108.05028.pdf))|ICCV 2021||cross-domain few shot||
+|197|IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID([paper](https://arxiv.org/abs/2108.02413))|ICCV 2021|[code](https://github.com/SikaStar/IDM)|UDA, Re-ID||
+|196|Universal Cross-Domain Retrieval: Generalizing Across Classes and Domains([paper](https://arxiv.org/pdf/2108.08356.pdf))|ICCV 2021||DA, Retrieval|new direction|
+|195|Transporting Causal Mechanisms for Unsupervised Domain Adaptation([paper](https://arxiv.org/abs/2107.11055))|ICCV 2021|[code](https://github.com/yue-zhongqi/tcm)|UDA|good paper|
+|194|Domain Adaptive Video Segmentation via Temporal Consistency Regularization(([paper](https://arxiv.org/pdf/2107.11004.pdf))|ICCV 2021|[code](https://github.com/Dayan-Guan/DA-VSN)|video semantic segmentation, UDA||
+|193|Dual Path Learning for Domain Adaptation of Semantic Segmentation([paper](https://arxiv.org/pdf/2108.06337.pdf))|ICCV 2021|[code](https://github.com/royee182/DPL)|UDA, semantic segmentation||
+|192|LabOR: Labeling Only if Required for Domain Adaptive Semantic Segmentation([paper](https://arxiv.org/pdf/2108.05570.pdf))|ICCV 2021||active liked UDA, semantic segmentation|new direction|
+|191|Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation([paper](https://arxiv.org/pdf/2108.06962.pdf))|ICCV 2021||multi target DA, semantic segmentation||
+|190| Multi-Anchor Active Domain Adaptation for Semantic Segmentation([paper](https://arxiv.org/pdf/2108.08012.pdf))|ICCV 2021||Active DA, semantic segmentation||
+|189|Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation ([paper](https://arxiv.org/pdf/2108.11249.pdf))|ICCV 2021|[project](https://sites.google.com/view/sfdaseg)|SFDA, Semantic Segmentation|| 
+|188|Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency ([paper](https://arxiv.org/pdf/2107.11355.pdf))|ICCV 2021||DA, 3D detection||
+|187|Vector-Decomposed Disentanglement for Domain-Invariant Object Detection ([paper](https://arxiv.org/pdf/2108.06685.pdf))|ICCV 2021||DA, object detection||
 |186|Matching Distributions between Model and Data: Cross-domain Knowledge Distillation for Unsupervised Domain Adaptation ([paper](https://aclanthology.org/2021.acl-long.421.pdf))|ACL 2021||SFDA|good paper, recommended|
 |185|cross-domain error minimization for unsupervised domain adaptation ([paper](https://arxiv.org/abs/2106.15057))|DASFAA 2021|[code](https://github.com/yuntaodu/CDEM)|cross-domain error, UDA| **new method from new theory**|
 |184|TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport|IJCAI 2021||UDA||
@@ -322,6 +348,8 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 ### 2) Novel_papers on related fileds
 |number|  Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 | ---- | ----  | ----  | ---- | ---- | ---- |
+|22|MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks ([paper](https://arxiv.org/pdf/2103.06132.pdf))|ICCV 2021||data augmentation||
+|21|Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain ([paper](https://arxiv.org/pdf/2108.08487.pdf))|ICCV 2021|[code](https://github.com/iCGY96/APR)|data augmentation|maybe useful for UDA|
 |20|OpenWGL: Open-World Graph Learning ([paper](https://par.nsf.gov/servlets/purl/10199471))|ICDM 2020| |open node classification|best student paper|
 |19|FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION ([paper](https://arxiv.org/pdf/2101.06395.pdf))|ICLR 2021|[code](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration)|calibation| maybe for UDA|
 |18| Semi-Supervised Action Recognition with Temporal Contrastive Learning([paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf))|CVPR 2021|[project](https://cvir.github.io/TCL/)|action recognition||
