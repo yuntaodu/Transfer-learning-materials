@@ -116,6 +116,7 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 -->
 	
 ## Presentation
+   - 2021.10 Hoffman, Judy Understanding and Mitigating Bias in Vision Systems [视频](https://smartech.gatech.edu/handle/1853/65390)
    - ECCV 2020 tutorial Domain Adaptation for Visual Applications [视频](https://europe.naverlabs.com/eccv-2020-domain-adaptation-tutorial/)
    - VALSE Webinar 20210609-15 总第241期 领域自适应方法与进展 [报告1](https://www.bilibili.com/video/BV1uB4y1M7ZP), [报告2](https://www.bilibili.com/video/BV1M64y1d7yr), [panel](https://www.bilibili.com/video/BV1m44y167wy), 
    - 龙明盛 CCDM 2020 [视频](https://www.bilibili.com/video/BV1ZK4y1Y77u?from=search&seid=13208916633723128421) , [ppt](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transfer-learning-theories-and-algorithms-ccdm20.pdf)
