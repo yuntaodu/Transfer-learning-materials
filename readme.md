@@ -89,18 +89,19 @@ CCF推荐会议每年的举办时间会有稍稍的不同，此列表收集了�
 
 ## Excellent Scholars
 - [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
-- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
-- [张宇 南方科技大学](https://yuzhanghk.github.io/)
-- [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
-- [王晋东 微软亚洲研究院](http://jd92.wang/)
-- [张磊 重庆大学](http://www.leizhang.tk/)
 - [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
 - [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
-- [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
-- [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
-- [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
 - [宫博庆 Google Research](http://boqinggong.info/)
 - [宫明明 墨尔本大学](https://mingming-gong.github.io/)
+- [李晶晶 电子科技大学](https://lijin118.github.io/)
+- [Kuniaki Saito Boston University(Ph.D)](http://cs-people.bu.edu/keisaito/)
+- [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
+- [李汶 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
+- [张磊 重庆大学](http://www.leizhang.tk/)
+- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/zhuangfuzhen/)
+- [张宇 南方科技大学](https://yuzhanghk.github.io/)
+- [王晋东 微软亚洲研究院](http://jd92.wang/)
+- [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
 
 ## 新论文追踪
 
